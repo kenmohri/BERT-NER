@@ -80,3 +80,4 @@ tail -n0 -F ~/data/my_corpus/version0/log.txt \
 - [BERT with SentencePiece を日本語 Wikipedia で学習してモデルを公開しました](https://yoheikikuta.github.io/bert-japanese/)
     - [Model trained with Japanese Wikipedia](https://github.com/yoheikikuta/bert-japanese)
 
+# BERT-NER-jp
