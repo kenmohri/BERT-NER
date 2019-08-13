@@ -1,0 +1,231 @@
+diff --git a/create_pretraining_data.py b/create_pretraining_data.py
+index 1715ea3..0e73bf8 100644
+--- a/create_pretraining_data.py
++++ b/create_pretraining_data.py
+@@ -34,6 +34,9 @@ flags.DEFINE_string(
+     "output_file", None,
+     "Output TF example file (or comma-separated list of files).")
+ 
++flags.DEFINE_string("model_file", None,
++                    "The model file that the SentencePiece model was trained on.")
++
+ flags.DEFINE_string("vocab_file", None,
+                     "The vocabulary file that the BERT model was trained on.")
+ 
+@@ -410,7 +413,8 @@ def main(_):
+   tf.logging.set_verbosity(tf.logging.INFO)
+ 
+   tokenizer = tokenization.FullTokenizer(
+-      vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
++      model_file=FLAGS.model_file, vocab_file=FLAGS.vocab_file,
++      do_lower_case=FLAGS.do_lower_case)
+ 
+   input_files = []
+   for input_pattern in FLAGS.input_file.split(","):
+@@ -438,5 +442,6 @@ def main(_):
+ if __name__ == "__main__":
+   flags.mark_flag_as_required("input_file")
+   flags.mark_flag_as_required("output_file")
++  flags.mark_flag_as_required("model_file")
+   flags.mark_flag_as_required("vocab_file")
+   tf.app.run()
+diff --git a/extract_features.py b/extract_features.py
+index 60e3830..315ca97 100644
+--- a/extract_features.py
++++ b/extract_features.py
+@@ -42,6 +42,9 @@ flags.DEFINE_string(
+     "The config json file corresponding to the pre-trained BERT model. "
+     "This specifies the model architecture.")
+ 
++flags.DEFINE_string("model_file", None,
++                    "The model file that the SentencePiece model was trained on.")
++
+ flags.DEFINE_integer(
+     "max_seq_length", 128,
+     "The maximum total input sequence length after WordPiece tokenization. "
+@@ -348,7 +351,8 @@ def main(_):
+   bert_config = modeling.BertConfig.from_json_file(FLAGS.bert_config_file)
+ 
+   tokenizer = tokenization.FullTokenizer(
+-      vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
++      model_file=FLAGS.model_file, vocab_file=FLAGS.vocab_file,
++      do_lower_case=FLAGS.do_lower_case)
+ 
+   is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
+   run_config = tf.contrib.tpu.RunConfig(
+@@ -412,6 +416,7 @@ def main(_):
+ 
+ if __name__ == "__main__":
+   flags.mark_flag_as_required("input_file")
++  flags.mark_flag_as_required("model_file")
+   flags.mark_flag_as_required("vocab_file")
+   flags.mark_flag_as_required("bert_config_file")
+   flags.mark_flag_as_required("init_checkpoint")
+diff --git a/run_classifier.py b/run_classifier.py
+index 817b147..eedc6ab 100644
+--- a/run_classifier.py
++++ b/run_classifier.py
+@@ -31,6 +31,9 @@ flags = tf.flags
+ FLAGS = flags.FLAGS
+ 
+ ## Required parameters
++flags.DEFINE_string("model_file", None,
++                    "The model file that the SentencePiece model was trained on.")
++
+ flags.DEFINE_string(
+     "data_dir", None,
+     "The input data dir. Should contain the .tsv files (or other data files) "
+@@ -817,7 +820,8 @@ def main(_):
+   label_list = processor.get_labels()
+ 
+   tokenizer = tokenization.FullTokenizer(
+-      vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
++      model_file=FLAGS.model_file, vocab_file=FLAGS.vocab_file,
++      do_lower_case=FLAGS.do_lower_case)
+ 
+   tpu_cluster_resolver = None
+   if FLAGS.use_tpu and FLAGS.tpu_name:
+@@ -973,6 +977,7 @@ def main(_):
+ 
+ 
+ if __name__ == "__main__":
++  flags.mark_flag_as_required("model_file")
+   flags.mark_flag_as_required("data_dir")
+   flags.mark_flag_as_required("task_name")
+   flags.mark_flag_as_required("vocab_file")
+diff --git a/run_squad.py b/run_squad.py
+index edd4c3e..653d040 100644
+--- a/run_squad.py
++++ b/run_squad.py
+@@ -34,6 +34,9 @@ flags = tf.flags
+ FLAGS = flags.FLAGS
+ 
+ ## Required parameters
++flags.DEFINE_string("model_file", None,
++                    "The model file that the SentencePiece model was trained on.")
++
+ flags.DEFINE_string(
+     "bert_config_file", None,
+     "The config json file corresponding to the pre-trained BERT model. "
+@@ -1133,7 +1136,8 @@ def main(_):
+   tf.gfile.MakeDirs(FLAGS.output_dir)
+ 
+   tokenizer = tokenization.FullTokenizer(
+-      vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
++      model_file=FLAGS.model_file, vocab_file=FLAGS.vocab_file,
++      do_lower_case=FLAGS.do_lower_case)
+ 
+   tpu_cluster_resolver = None
+   if FLAGS.use_tpu and FLAGS.tpu_name:
+@@ -1277,6 +1281,7 @@ def main(_):
+ 
+ 
+ if __name__ == "__main__":
++  flags.mark_flag_as_required("model_file")
+   flags.mark_flag_as_required("vocab_file")
+   flags.mark_flag_as_required("bert_config_file")
+   flags.mark_flag_as_required("output_dir")
+diff --git a/tokenization.py b/tokenization.py
+index dc476a6..ca01f5f 100644
+--- a/tokenization.py
++++ b/tokenization.py
+@@ -24,6 +24,7 @@ import unicodedata
+ import six
+ import tensorflow as tf
+ 
++import sentencepiece as spm
+ 
+ def validate_case_matches_checkpoint(do_lower_case, init_checkpoint):
+   """Checks whether the casing config is consistent with the checkpoint name."""
+@@ -127,26 +128,31 @@ def load_vocab(vocab_file):
+       token = convert_to_unicode(reader.readline())
+       if not token:
+         break
++      token, _ = token.split("\t")
+       token = token.strip()
+       vocab[token] = index
+       index += 1
+   return vocab
+ 
+ 
+-def convert_by_vocab(vocab, items):
++def convert_by_vocab(vocab, items, unk_info):
+   """Converts a sequence of [tokens|ids] using the vocab."""
+   output = []
+   for item in items:
+-    output.append(vocab[item])
++    val = vocab.get(item)
++    if val is None:
++      output.append(unk_info)
++    else:
++      output.append(val)
+   return output
+ 
+ 
+ def convert_tokens_to_ids(vocab, tokens):
+-  return convert_by_vocab(vocab, tokens)
++  return convert_by_vocab(vocab, tokens, unk_info=0)
+ 
+ 
+ def convert_ids_to_tokens(inv_vocab, ids):
+-  return convert_by_vocab(inv_vocab, ids)
++  return convert_by_vocab(inv_vocab, ids, unk_info="<unk>")
+ 
+ 
+ def whitespace_tokenize(text):
+@@ -158,28 +164,45 @@ def whitespace_tokenize(text):
+   return tokens
+ 
+ 
++class SentencePieceTokenizer(object):
++    """Runs SentencePiece tokenization (from raw text to tokens list)"""
++
++    def __init__(self, model_file = None, do_lower_case=True):
++        """Constructs a SentencePieceTokenizer."""
++        self.tokenizer = spm.SentencePieceProcessor()
++        if self.tokenizer.Load(model_file):
++            print("Loaded a trained SentencePiece model.")
++        else:
++            print("You have to set the path to a trained SentencePiece model.")
++            sys.exit(1)
++        self.do_lower_case = do_lower_case
++
++    def tokenize(self, text):
++        """Tokenizes a piece of text."""
++        text = convert_to_unicode(text)
++        if self.do_lower_case:
++            text = text.lower()
++        output_tokens = self.tokenizer.EncodeAsPieces(text)
++        return output_tokens
++
++
+ class FullTokenizer(object):
+   """Runs end-to-end tokenziation."""
+ 
+-  def __init__(self, vocab_file, do_lower_case=True):
++  def __init__(self, model_file, vocab_file, do_lower_case=True):
++    self.tokenizer = SentencePieceTokenizer(model_file, do_lower_case)
+     self.vocab = load_vocab(vocab_file)
+     self.inv_vocab = {v: k for k, v in self.vocab.items()}
+-    self.basic_tokenizer = BasicTokenizer(do_lower_case=do_lower_case)
+-    self.wordpiece_tokenizer = WordpieceTokenizer(vocab=self.vocab)
+ 
+   def tokenize(self, text):
+-    split_tokens = []
+-    for token in self.basic_tokenizer.tokenize(text):
+-      for sub_token in self.wordpiece_tokenizer.tokenize(token):
+-        split_tokens.append(sub_token)
+-
++    split_tokens = self.tokenizer.tokenize(text)
+     return split_tokens
+ 
+   def convert_tokens_to_ids(self, tokens):
+-    return convert_by_vocab(self.vocab, tokens)
++    return convert_by_vocab(self.vocab, tokens, unk_info=0)
+ 
+   def convert_ids_to_tokens(self, ids):
+-    return convert_by_vocab(self.inv_vocab, ids)
++    return convert_by_vocab(self.inv_vocab, ids, unk_info="<unk>")
+ 
+ 
+ class BasicTokenizer(object):

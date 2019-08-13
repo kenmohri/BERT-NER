@@ -1,0 +1,13092 @@
+助かります	O
+。	O
+
+
+
+
+
+
+
+
+お調べ	O
+いただきありがとうございます	O
+!	O
+。	O
+
+画面	O
+を見て	O
+検討致します	O
+。	O
+
+
+せっかくなので	O
+お願いします	O
+!	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+お世話になります	O
+。	O
+
+草津	B-strong
+の	O
+宿を探して	O
+います	O
+。	O
+
+お勧め	O
+はあります	O
+でしょうか	O
+。	O
+
+4	B-strong
+人	I-strong
+2	B-strong
+部屋	I-strong
+1	B-strong
+泊で	I-strong
+、	O
+予算	O
+は	O
+1	O
+人	O
+あたり	O
+1	B-strong
+5000	I-strong
+円くらい	I-strong
+です	O
+。	O
+
+ゆったりできる	B-weak
+ところが	O
+いいですね	O
+。	O
+
+
+
+
+
+20	B-strong
+日	I-strong
+土曜日	I-strong
+、	O
+1	B-strong
+泊	I-strong
+です	O
+。	O
+
+
+
+
+夕食	B-weak
+だけで	I-weak
+いいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+確認	O
+します	O
+!	O
+。	O
+
+できれば	O
+和室	B-weak
+が	O
+いいですね	O
+。	O
+
+
+
+
+そうですね	O
+。	O
+
+お願いします	O
+!	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+!	O
+。	O
+
+助かりました	O
+。	O
+
+
+
+11	B-strong
+月	I-strong
+1	I-strong
+日	I-strong
+2	B-strong
+人	I-strong
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+。	O
+
+夕食	B-strong
+部屋食	I-strong
+希望	O
+。	O
+
+
+
+1	B-strong
+5000	I-strong
+円以内	I-strong
+。	O
+
+
+
+
+部屋	B-strong
+のみで	I-strong
+お願いします	O
+。	O
+
+
+
+
+
+
+部屋にトイレ	B-strong
+がないのは	I-strong
+困ります	O
+。	O
+
+
+風呂	B-strong
+・	I-strong
+トイレ	I-strong
+付で	I-strong
+お願いします	O
+。	O
+
+
+
+
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+スパ	B-weak
+ックス	I-weak
+さんは	O
+部屋で	B-weak
+夕食を	I-weak
+食べられる	O
+プラン	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+16	B-strong
+日の	I-strong
+土曜日	I-strong
+あたり	O
+に	O
+大人	B-strong
+2	I-strong
+人で	I-strong
+行きたい	O
+ので	O
+が	O
+、	O
+ペット	B-strong
+が	O
+います	O
+。	O
+
+小型犬	B-strong
+2	I-strong
+頭	I-strong
+も	O
+つ	O
+て	O
+れて	O
+いきたい	O
+のですが	O
+、	O
+、	O
+、	O
+。	O
+
+出来れば	O
+、	O
+中心部	B-weak
+から近い	I-weak
+と	O
+いいのですが	O
+、	O
+そんな	O
+ところ	O
+はあります	O
+か	O
+。	O
+
+
+
+はい	O
+、	O
+そうです	O
+。	O
+
+
+
+ありがとうございます	O
+。	O
+
+日にち	O
+は	O
+23	B-weak
+日	I-weak
+でも	O
+大丈夫です	O
+。	O
+
+よろしくお願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+ありがとうございました	O
+。	O
+
+助かりました	O
+。	O
+
+
+
+11	B-strong
+月	I-strong
+3	I-strong
+・	I-strong
+4	I-strong
+・	I-strong
+5	I-strong
+日	I-strong
+三	B-strong
+連泊	I-strong
+が	O
+好	O
+ましい	O
+。	O
+
+大人	B-strong
+2	I-strong
+名	I-strong
+。	O
+
+
+
+朝	B-strong
+のみで	I-strong
+湯畑	B-strong
+付近で	I-strong
+、	O
+電車で	B-strong
+行きます	O
+(	O
+仕事	O
+)	O
+。	O
+
+
+
+
+
+4	B-strong
+日	I-strong
+のみ	I-strong
+だと	O
+可能性	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+11	B-strong
+月	I-strong
+3	I-strong
+日	I-strong
+と	I-strong
+4	I-strong
+日を	I-strong
+連泊したい	B-strong
+です	O
+。	O
+
+
+
+2	B-strong
+名	I-strong
+です	O
+。	O
+
+
+夫婦	O
+です	O
+。	O
+
+
+朝	B-strong
+夜	I-strong
+2	I-strong
+食付き	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+部屋は和室	B-weak
+が	O
+希望	O
+です	O
+。	O
+
+あとは	O
+露天風呂	B-strong
+があること	O
+。	O
+
+共同	B-neutral
+で	O
+構いません	O
+。	O
+
+
+
+
+
+
+
+朝食は和食	B-strong
+で	O
+希望	O
+します	O
+。	O
+
+あと	O
+、	O
+もう少し	O
+風情のある	B-weak
+旅館	B-weak
+が	O
+希望	O
+です	O
+。	O
+
+
+そうです	O
+か	O
+。	O
+
+一応	O
+、	O
+候補	O
+を見せて	O
+いただきます	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+丘の上	B-weak
+ホテル	I-weak
+が気に入りました	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+
+4	B-strong
+月	I-strong
+の中	I-strong
+旬	I-strong
+か	I-strong
+5	I-strong
+月	I-strong
+の中	I-strong
+旬	I-strong
+GW	B-weak
+外	O
+して	O
+4	B-strong
+人で	I-strong
+を考えて	O
+ます	O
+。	O
+
+
+
+曜日	B-neutral
+はまだ	I-neutral
+未	I-neutral
+定	I-neutral
+です	O
+。	O
+
+料金は	O
+大きく	O
+変わります	O
+か	O
+?	O
+。	O
+
+
+
+はい	O
+お願いします	O
+。	O
+
+
+
+子供は	B-neutral
+いません	I-neutral
+。	O
+
+外国の	O
+夫婦と	B-strong
+女性	B-strong
+2	I-strong
+人	I-strong
+です	O
+。	O
+
+日本	B-weak
+は初めてです	I-weak
+。	O
+
+温泉も	B-weak
+初めて	O
+です	O
+。	O
+
+年齢	O
+は	O
+40	O
+歳	O
+ー	O
+60	O
+です	O
+。	O
+
+落ち着いた	B-weak
+感じがいい	O
+です	O
+。	O
+
+
+
+はい	O
+、	O
+それ	O
+を希望します	O
+。	O
+
+
+夕食は	B-weak
+外で食べ	I-weak
+る	O
+方が	O
+おすすめのお店	O
+がなければ	O
+ご飯の	B-weak
+美味しい	I-weak
+宿	I-weak
+を希望します	O
+。	O
+
+昔の	B-strong
+旅館	I-strong
+スタイル	I-strong
+の	I-strong
+夕食	I-strong
+。	O
+
+
+形	B-weak
+だけの	I-weak
+先	I-weak
+付け	I-weak
+とか	O
+冷凍	O
+食品	O
+か	O
+と思って	O
+しまう	O
+もの	O
+とか	O
+は	O
+避け	O
+たいです	O
+。	O
+
+
+
+
+できたら	O
+露天風呂	B-weak
+があると	O
+いいですね	O
+。	O
+
+
+一人	O
+2	B-strong
+万	I-strong
+以内	I-strong
+で	O
+考えて	O
+ます	O
+。	O
+
+
+
+はい	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+はい	B-weak
+、	O
+二つ	O
+とも	O
+お風呂が	B-neutral
+いい感じ	I-neutral
+ですね	O
+。	O
+
+
+最初の	O
+方は	O
+建物が	O
+新しい	O
+のですか	O
+?	O
+。	O
+
+後	O
+の方は	O
+ちょっと	O
+古い感じ	B-neutral
+を持ち	O
+ました	O
+。	O
+
+建物の古さ	B-neutral
+は	I-neutral
+気に	I-neutral
+し	I-neutral
+ませんが	I-neutral
+、	O
+湿気	B-weak
+ぽ	I-weak
+い	I-weak
+感じ	O
+じゃない	O
+方がいいです	O
+。	O
+
+
+草津温泉	O
+は	O
+湯	O
+も	O
+み	O
+が	O
+有名な	O
+ところでした	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+どちらも	B-weak
+とても	O
+いい感じ	O
+ですね	O
+。	O
+
+きっと	O
+友人	O
+も喜んで	O
+もらえる	O
+と思います	O
+。	O
+
+
+
+
+どんな	O
+条件	O
+でしょうか	O
+?	O
+。	O
+
+
+
+ベ	B-weak
+ジ	I-weak
+タ	I-weak
+リ	I-weak
+アン	I-weak
+の	I-weak
+夕食は	I-weak
+どう	O
+でしょうか	O
+?	O
+。	O
+
+
+わかりました	O
+。	O
+
+提案	O
+していただいた	O
+の	O
+を	O
+友人と	O
+相談	O
+して	O
+みようと思います	O
+。	O
+
+
+
+
+
+3	B-strong
+月	I-strong
+18	I-strong
+日	I-strong
+2	B-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+、	O
+できれば	O
+お料理	B-weak
+の評判	I-weak
+が	I-weak
+良いところ	I-weak
+をお願いします	O
+。	O
+
+和	B-neutral
+か	O
+洋	B-neutral
+は	O
+どちら	O
+で	O
+も良いです	O
+。	O
+
+
+
+予算	O
+は	O
+一人	O
+2	B-strong
+万円	I-strong
+まで	I-strong
+で	O
+、	O
+露天風呂	B-weak
+がある	O
+宿	O
+が良いです	O
+。	O
+
+あと	O
+、	O
+部屋は	O
+禁煙ルーム	B-weak
+があれば	O
+そちら	O
+を	O
+お願いしたいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ホテル	O
+の位置	B-weak
+と	O
+リニューアルした	B-neutral
+お部屋が	I-neutral
+素敵なホテル	B-neutral
+み	I-strong
+ゆき	I-strong
+に	O
+したいと思います	O
+。	O
+
+お風呂は	O
+男女入れ替え	O
+など	O
+ある	O
+でしょうか	O
+?	O
+。	O
+
+
+
+ありがとうございます	O
+。	O
+
+では	O
+ホテル	B-strong
+み	I-strong
+ゆき	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+
+
+ありがとうございました	O
+。	O
+
+12	B-strong
+月の	I-strong
+土日	I-strong
+に	O
+かみ	O
+さんと	O
+利用	O
+です	O
+。	O
+
+
+
+
+それでは	O
+、	O
+16	B-strong
+、	I-strong
+17	I-strong
+日で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食	I-strong
+で	O
+お願いします	O
+。	O
+
+朝は	B-weak
+バイキング形式で	I-weak
+食べたいもの	O
+だけ	O
+が食べられる	O
+のが	O
+、	O
+良いです	O
+。	O
+
+夜は	O
+、	O
+部屋で	B-neutral
+も	I-neutral
+食堂で	I-neutral
+も良いです	I-neutral
+。	O
+
+
+草津	B-strong
+らしい	I-strong
+ところ	O
+をお願いします	O
+。	O
+
+予算	B-neutral
+は	I-neutral
+ご提案	I-neutral
+内容	I-neutral
+次第	I-neutral
+だと思います	O
+。	O
+
+貸し切り風呂は	B-strong
+必要	O
+ありません	O
+。	O
+
+
+はい	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+「	O
+料金	O
+・	O
+宿泊プラン	O
+一	O
+覧	O
+」	O
+で	O
+「	O
+こだわり	O
+」	O
+の	O
+「	O
+禁煙ルーム	B-weak
+」	O
+を	O
+指定	O
+すると	O
+、	O
+検索	O
+結果	O
+が	O
+0	O
+件	O
+です	O
+。	O
+
+禁煙ルーム	B-weak
+のある	O
+ところで	O
+お願いしたいと思います	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	O
+つ	O
+目に	O
+ご紹介	O
+くださった	O
+しゃ	B-weak
+く	I-weak
+な	I-weak
+げ	I-weak
+も	O
+湯畑	B-weak
+など	I-weak
+に近い	I-weak
+のでしょうか	O
+。	O
+
+
+ここが	B-weak
+良さそう	O
+に感じました	O
+。	O
+
+
+
+東京から	O
+バスで	O
+行く	O
+として	O
+、	O
+バスターミナル	O
+から	O
+送迎バス	B-weak
+など	O
+はあります	O
+か	O
+。	O
+
+
+
+10	B-strong
+月	I-strong
+27	I-strong
+日	I-strong
+(	I-strong
+金	I-strong
+)	I-strong
+から	I-strong
+一泊で	B-strong
+行きたいと思っています	O
+。	O
+
+
+夫婦	O
+二	B-strong
+名	I-strong
+です	O
+。	O
+
+
+ホテル	O
+か	O
+旅館	O
+が	O
+希望	O
+です	O
+。	O
+
+あまり	O
+ゴミ	B-weak
+ゴミ	I-weak
+したところ	I-weak
+ではなく	O
+、	O
+大人	O
+が	O
+落ち着いて	O
+過ごせる	O
+ような	O
+施設	O
+だと	O
+嬉しいです	O
+。	O
+
+
+
+食事は	B-weak
+なし	I-weak
+が	O
+希望	O
+です	O
+。	O
+
+
+一人	O
+あたり	O
+2	B-weak
+万	I-weak
+まで	I-weak
+が	O
+理想	O
+ですが	O
+、	O
+条件	O
+によっては	O
+それ以上	B-neutral
+でも	O
+大丈夫です	O
+。	O
+
+
+
+
+
+
+
+趣	B-weak
+はありますが	O
+、	O
+若干	O
+お宿	O
+が	O
+古そう	B-weak
+な感じ	O
+が気になります	O
+。	O
+
+もう少し	O
+新しい	B-weak
+施設は	O
+ない	O
+でしょうか	O
+?	O
+。	O
+
+また	O
+、	O
+貸切風呂	B-neutral
+には	O
+こだわり	O
+がなく	O
+、	O
+同じ	O
+貸切	O
+なら	O
+露天風呂付	B-strong
+個室	I-strong
+に	O
+魅力	O
+を感じます	O
+。	O
+
+露天風呂付	O
+個室	O
+なら	O
+一人	O
+当たり	O
+4	B-strong
+万	I-strong
+位	I-strong
+まで	I-strong
+考え	O
+たいと思っています	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+草	B-strong
+庵	I-strong
+さんの	O
+雰囲気が	O
+気に入りました	O
+ので	O
+、	O
+できれば	O
+そこ	O
+の	O
+露天風呂付のお部屋	B-weak
+を	O
+お願いしたいです	O
+。	O
+
+
+
+了解	O
+致しました	O
+。	O
+
+おかげさまで	O
+素敵な	O
+お宿	O
+が	O
+見つか	O
+って	O
+嬉しいです	O
+。	O
+
+ありがとうございました	O
+(*	O
+▁	O
+́	O
+ω	O
+`	O
+*)	O
+。	O
+
+10	B-strong
+月	I-strong
+28	I-strong
+日	I-strong
+です	O
+。	O
+
+
+夫婦二人	B-strong
+です	O
+。	O
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+。	O
+
+
+
+出来るだけ	O
+景色	B-weak
+のよい	I-weak
+部屋	I-weak
+を希望します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+最初の	B-neutral
+は	O
+予算	O
+的に	O
+少し高い	O
+ですね	O
+。	O
+
+2	B-weak
+番目	O
+の方が	O
+予算	O
+的には	O
+あって	O
+います	O
+。	O
+
+
+
+分かりました	O
+、	O
+家内と	O
+も	O
+相談	O
+し	O
+どう	O
+するか	O
+決め	O
+たいと思います	O
+。	O
+
+
+12	B-strong
+月	I-strong
+23	I-strong
+、	I-strong
+24	I-strong
+日	I-strong
+、	O
+4	B-strong
+人で	I-strong
+おねがい	O
+します	O
+。	O
+
+
+
+小学校	B-strong
+2	I-strong
+年	I-strong
+生	I-strong
+7	I-strong
+歳と	I-strong
+幼稚園	B-strong
+児	I-strong
+4	I-strong
+歳	I-strong
+です	O
+。	O
+
+
+
+朝食だけ	B-weak
+つけて	O
+いただいて	O
+、	O
+4	B-weak
+歳の子	I-weak
+も	I-weak
+朝食は	I-weak
+食べ	I-weak
+ます	I-weak
+、	O
+。	O
+
+布団は	B-weak
+大丈夫です	O
+。	O
+
+
+
+温泉に入りたい	B-weak
+の	O
+と	O
+子供たちに	O
+スキー	B-weak
+デビュー	O
+も	O
+させ	O
+たいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありません	O
+、	O
+。	O
+
+ホテル	B-weak
+櫻井	I-weak
+は	O
+リフト	B-weak
+1	I-weak
+日	I-weak
+券	I-weak
+付の	I-weak
+もあり	O
+いいですね	O
+。	O
+
+リピーター	O
+率	O
+NO	O
+1	O
+というのは	O
+どういう	O
+調べ	O
+方	O
+なのかな	O
+と少し	O
+疑問	O
+に感じました	O
+。	O
+
+禁煙室	B-weak
+がない	O
+のも	O
+気になりましたが	O
+仕方ないのかな	O
+。	O
+
+口コミ	B-neutral
+も	I-neutral
+よさそう	I-neutral
+ですね	O
+。	O
+
+
+
+
+
+
+
+
+松乃井	B-weak
+旅館は	I-weak
+こじんまりとした	B-neutral
+味	B-neutral
+のある	I-neutral
+宿	O
+ですね	O
+、	O
+値段も安い	B-neutral
+ですね	O
+、	O
+女将	O
+の	O
+作る	O
+料理が	B-neutral
+おいしそう	I-neutral
+です	O
+。	O
+
+個人的には	B-weak
+こちらの	O
+ほうが	O
+好きです	O
+が	O
+子供と	O
+妻は	O
+ホテル	B-strong
+櫻井	I-strong
+かな	O
+。	O
+
+
+
+ラグジュアリー	B-neutral
+な感じ	O
+ですね	O
+、	O
+妻が	O
+喜び	O
+そうです	O
+。	O
+
+浴衣が	B-neutral
+選べる	I-neutral
+みたいで	O
+長女	B-neutral
+も	I-neutral
+喜び	I-neutral
+そうです	I-neutral
+、	O
+。	O
+
+3	O
+つ	O
+の中から	O
+検討して	O
+みます	O
+、	O
+ありがとうございます	O
+。	O
+
+
+
+
+大人	B-strong
+2	I-strong
+人	I-strong
+、	O
+子供	B-strong
+2	I-strong
+人	I-strong
+(	I-strong
+小学生	I-strong
+と	I-strong
+幼稚園	I-strong
+生	I-strong
+)	I-strong
+、	O
+2	B-strong
+月	I-strong
+3	I-strong
+、	O
+4	B-strong
+日で	I-strong
+お願いします	O
+、	O
+。	O
+
+下の子	O
+は	O
+布団は	B-weak
+なしで	O
+食事	B-strong
+だけ	I-strong
+つけて	O
+ください	O
+、	O
+。	O
+
+上の	B-strong
+子	I-strong
+は	I-strong
+食事	I-strong
+、	O
+布団	B-strong
+とも	O
+お願いいたします	O
+。	O
+
+スキー	B-weak
+デビュー	O
+をさせて	O
+あげたい	O
+です	O
+。	O
+
+
+
+はい	O
+、	O
+お願いします	O
+。	O
+
+
+
+予算	O
+は	O
+一人	O
+1	B-strong
+5000	I-strong
+円	I-strong
+まで	I-strong
+で	O
+、	O
+スキー	B-weak
+と	O
+軽井沢	B-weak
+おもちゃ王国	I-weak
+に	O
+子供が	O
+行きたい	O
+といって	O
+いるので	O
+近い	O
+ところで	O
+お願いしたいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+当日は	O
+車	O
+です	O
+。	O
+
+どちらも	O
+よさそう	O
+ですが	O
+、	O
+いで	B-weak
+湯	I-weak
+荘	I-weak
+のほうが	O
+個人的には	O
+好きです	O
+、	O
+。	O
+
+ありがとうございました	O
+。	O
+
+目	O
+先	O
+まだ	O
+具体的に	O
+は	O
+何も	O
+決まって	O
+いません	O
+。	O
+
+
+
+はい	O
+、	O
+お願い致します	O
+。	O
+
+
+一人	O
+か	O
+二人	O
+になると思います	O
+。	O
+
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+。	O
+
+
+景色が	B-strong
+良いところ	I-strong
+。	O
+
+又	O
+は	O
+散策	B-weak
+できるところ	I-weak
+が	O
+景色が	B-weak
+良い所	I-weak
+。	O
+
+
+
+
+
+中々	O
+良い所	O
+ですね	O
+。	O
+
+お食事も	B-neutral
+良さそう	I-neutral
+です	O
+。	O
+
+でも	O
+お値段も	B-neutral
+良さそう	I-neutral
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+眺めも良く	B-weak
+露天風呂も	B-weak
+良さそう	O
+ですね	O
+。	O
+
+ここは	O
+和室	B-weak
+だけです	O
+か	O
+?	O
+。	O
+
+
+
+
+
+日頃	O
+が	O
+布団	O
+で	O
+寝ている	O
+ので	O
+ベッド	B-neutral
+があれば	O
+と思いました	O
+。	O
+
+
+
+
+凄く	O
+良さそう	O
+ですね	O
+。	O
+
+お値段も	O
+ですが	O
+・・・。	O
+
+
+
+
+女性が	B-weak
+喜び	I-weak
+そうな	I-weak
+雰囲気	O
+です	O
+。	O
+
+
+
+
+
+ここ	O
+も	O
+いい感じです	O
+が	O
+、	O
+口コミ評価	B-weak
+がちょっと	I-weak
+低い	I-weak
+ですね	O
+。	O
+
+個性	B-weak
+がある	I-weak
+感じがします	O
+。	O
+
+
+
+
+
+
+
+本当に	O
+ご馳走	B-weak
+が	I-weak
+豪華	I-weak
+です	O
+。	O
+
+ただ	O
+バス	B-weak
+と	I-weak
+歩き	I-weak
+で	I-weak
+結構	I-weak
+大変な	I-weak
+感じですが	I-weak
+、	O
+その辺	O
+はどう	O
+なのでしょうか	O
+?	O
+。	O
+
+迎えに来て	B-weak
+もらえる	I-weak
+のですか	O
+?	O
+。	O
+
+
+そうな	O
+のですね	O
+。	O
+
+荷物を持って	B-weak
+15	I-weak
+分	I-weak
+歩く	I-weak
+のは	O
+きつい	O
+思いました	O
+。	O
+
+それなら	O
+安心	O
+ですね	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+はい	O
+、	O
+ありがとうございました	O
+。	O
+
+参考にさせていただきます	O
+。	O
+
+
+宿泊日	O
+は	O
+2017	B-strong
+年	I-strong
+12	I-strong
+月	I-strong
+29	I-strong
+日	I-strong
+、	O
+大人	B-strong
+2	I-strong
+人で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+一人	O
+2	B-strong
+5000	I-strong
+円くらい	I-strong
+まで	I-strong
+で	O
+、	O
+景観	B-strong
+が良い	I-strong
+部屋が	I-strong
+希望	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+はい	O
+、	O
+こちらの	O
+内容は	O
+とても	O
+良かったのですが	O
+、	O
+娘と	B-strong
+二人	I-strong
+なので	O
+、	O
+ツ	B-strong
+ィ	I-strong
+ン	I-strong
+か	O
+和室のお部屋	B-strong
+を探して	O
+おります	O
+。	O
+
+草津温泉	B-strong
+近辺で	I-strong
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+露天風呂は	O
+時間が	O
+利用	O
+時間が	O
+決まって	O
+いる	O
+みたいですが	O
+、	O
+内湯は	O
+お	O
+部屋に付いている	O
+も	O
+のですか	O
+?	O
+それと	O
+も	O
+大浴場	O
+みたいなもの	O
+ですか	O
+?	O
+。	O
+
+
+
+
+湯元	B-strong
+四	I-strong
+萬	I-strong
+館	I-strong
+は	O
+とても素敵な	B-neutral
+宿で	O
+申し分ないです	O
+し	O
+、	O
+予算	O
+内	O
+ですね	O
+。	O
+
+
+
+四	O
+萬	O
+館	O
+がとても	O
+気に入った	O
+のですが	O
+、	O
+寒い時期	O
+ですし	O
+、	O
+車で	O
+行った	O
+場合	O
+、	O
+積雪	O
+を	O
+考慮	O
+したほうが良い	O
+のでしょうか	O
+?	O
+。	O
+
+
+
+雪道	O
+の	O
+運転	O
+は	O
+疲れ	O
+そうなので	O
+JR	O
+と	O
+バスで	O
+行くこと	O
+に	O
+しようと思います	O
+ので	O
+、	O
+予約	O
+をお願いします	O
+。	O
+
+
+
+はい	O
+、	O
+「	O
+新	O
+登場	O
+▁	O
+E	O
+CO	B-strong
+(	I-strong
+公共	I-strong
+交通	I-strong
+)	I-strong
+プラン	I-strong
+▁	I-strong
+特典	I-strong
+たくさん	O
+▁	O
+<	O
+禁煙室	O
+>	B-strong
+▁	I-strong
+5	I-strong
+つの	I-strong
+貸切露天	O
+すべて	B-strong
+無料	I-strong
+」	O
+のプラン	O
+を見つけ	O
+たので	O
+予約	O
+させていただきます	O
+。	O
+
+
+
+
+
+宿泊日	O
+は	O
+1	B-strong
+月	I-strong
+15	I-strong
+日	I-strong
+、	O
+人数	O
+は	O
+2	B-strong
+名で	I-strong
+よろしくお願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+を希望します	O
+。	O
+
+
+
+貸切風呂は	B-neutral
+なくて	O
+も良いので	O
+温泉が	B-weak
+複数	I-weak
+ある	I-weak
+お宿	O
+がいいです	O
+。	O
+
+予算	O
+は	O
+一人	O
+1	B-strong
+5000	I-strong
+円	I-strong
+位	I-strong
+を希望	O
+しています	O
+。	O
+
+朝の	B-neutral
+食事は	I-neutral
+簡単な	I-neutral
+バイキングで	I-neutral
+大丈夫です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+一軒	O
+目	O
+、	O
+拝見	O
+しました	O
+!	O
+。	O
+
+露天風呂	B-weak
+とっても	O
+綺麗です	O
+!!	O
+。	O
+
+貸切風呂も	B-weak
+無料	O
+な	O
+んですね	O
+。	O
+
+送迎	B-weak
+もあると	O
+書かれて	O
+いて	O
+凄い	O
+と思います	O
+。	O
+
+もう一つ	O
+も	O
+拝見	O
+致します	O
+ね	O
+。	O
+
+
+二	O
+軒	O
+目	O
+、	O
+拝見	O
+しました	O
+!	O
+。	O
+
+お宿は	O
+一軒	O
+目が	O
+好み	O
+です	O
+。	O
+
+でも	O
+貴重な	B-weak
+お湯が	I-weak
+で	O
+る	O
+との事	O
+なので	O
+そちら	O
+は	O
+気になります	O
+。	O
+
+あと	O
+、	O
+展望露天風呂	B-neutral
+は	O
+入った	O
+こと	O
+がないので	O
+興味	O
+があります	O
+。	O
+
+
+こちらこそ	O
+ご提示	O
+くださり	O
+ありがとうございます	O
+!	O
+。	O
+
+
+せっかくの	O
+展望露天風呂	O
+の魅力	O
+が伝わり	O
+にくい	O
+お写真	O
+な	O
+のが残念です	O
+。	O
+
+付け	O
+加え	O
+たい	O
+条件	O
+は	O
+眺めの良い	B-strong
+お部屋の	I-strong
+場所に	O
+泊まりたいです	O
+。	O
+
+特に	O
+、	O
+夜景が	B-weak
+キレイ	I-weak
+だと	O
+嬉しいです	O
+。	O
+
+そういった	O
+お宿	O
+がなければ	O
+二	O
+軒	O
+目	O
+のお宿	O
+を希望します	O
+。	O
+
+年末	O
+12	B-strong
+月	I-strong
+29	I-strong
+日から	I-strong
+一泊	B-strong
+。	O
+
+女	O
+ばかり	O
+3	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+やはり	O
+朝夕	B-weak
+付き	O
+が良いです	O
+。	O
+
+
+
+
+女性	O
+ばかり	O
+なので	O
+女子会	B-weak
+プランなど	I-weak
+はない	O
+でしょうか	O
+。	O
+
+予算	O
+は	O
+できれば	O
+朝	B-weak
+夕食付	I-weak
+三人で	B-strong
+一部屋	B-strong
+40	B-weak
+,000	I-weak
+円以内	I-weak
+露天風呂	B-weak
+のある	O
+温泉ホテル	B-weak
+か	O
+旅館	B-weak
+がいいです	O
+。	O
+
+はい	O
+。	O
+
+
+
+はい	O
+▁	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+拝見させていただきました	O
+。	O
+
+白	B-weak
+根	I-weak
+の見える	I-weak
+丘	I-weak
+が	O
+秘境	B-weak
+ぽ	I-weak
+く	I-weak
+いいな	O
+▁	O
+と思いました	O
+。	O
+
+
+
+
+はい	O
+▁	O
+構いません	O
+。	O
+
+
+一応	O
+ざ	O
+っと	O
+ですが	O
+確認	O
+しました	O
+。	O
+
+
+フォレスト	B-weak
+リゾート	I-weak
+▁	I-weak
+コ	I-weak
+ニ	I-weak
+ファ	I-weak
+ー	I-weak
+いわ	I-weak
+び	I-weak
+つ	I-weak
+▁	I-weak
+も	I-weak
+いいですね	O
+。	O
+
+口コミ	B-weak
+も良い	I-weak
+ようです	O
+。	O
+
+↑	B-strong
+こちら	O
+にしようか	O
+と思います	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+アドバイス	O
+ありがとうございました	O
+。	O
+
+
+二人で	B-strong
+4	B-strong
+万円	I-strong
+程度	I-strong
+(	O
+朝夕食	B-strong
+)	O
+はあります	O
+か	O
+。	O
+
+
+
+1	B-strong
+月	I-strong
+11	I-strong
+日	I-strong
+出来れば	O
+ベッドが	B-weak
+いい	O
+なあ	O
+。	O
+
+
+
+はい	O
+。	O
+
+
+
+静かな	B-weak
+ところが	O
+いい	O
+なあ	O
+。	O
+
+
+電車で	O
+行くので	O
+交通	B-strong
+の	I-strong
+便利なところ	I-strong
+。	O
+
+お迎え	B-neutral
+バス	I-neutral
+があれば	O
+ありがたい	O
+。	O
+
+
+
+
+はい	O
+。	O
+
+
+
+
+中身	O
+が見え	O
+ないです	O
+。	O
+
+
+
+見えました	O
+。	O
+
+
+
+
+
+ち	O
+よっ	O
+と	O
+高い	B-weak
+感じですが	O
+。	O
+
+草津	O
+では	O
+、	O
+これ	O
+くらい	O
+する	O
+のですか	O
+。	O
+
+
+分かりました	O
+。	O
+
+
+ここに	B-strong
+します	O
+。	O
+
+
+割引券	B-weak
+等	I-weak
+はないです	O
+か	O
+。	O
+
+
+分かりました	O
+、	O
+じゃ	O
+、	O
+ここに	O
+します	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+3	B-strong
+人で	I-strong
+3	B-strong
+月下旬	I-strong
+位	I-strong
+を	O
+予定	O
+してますが	O
+。	O
+
+宿の	O
+予算	O
+は	O
+、	O
+全員で	O
+5	B-strong
+万円	I-strong
+くらいで	I-strong
+。	O
+
+
+ちょうど	B-weak
+春休み	I-weak
+は	I-weak
+いった	I-weak
+ころ	I-weak
+になると思います	O
+。	O
+
+
+出来れば	O
+週末	B-weak
+が	O
+いいですね	O
+。	O
+
+
+
+もう	O
+入って	O
+ます	O
+。	O
+
+宜しくお願いします	O
+。	O
+
+
+
+
+
+家族旅行	O
+です	O
+。	O
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+。	O
+
+できれば	O
+1	O
+人	O
+、	O
+魚が	B-weak
+ダメ	I-weak
+な	I-weak
+人がいる	I-weak
+ので	I-weak
+変えて	I-weak
+もらえると	O
+うれしいです	O
+が	O
+。	O
+
+全員	B-strong
+大人	I-strong
+です	O
+。	O
+
+
+
+
+草津	O
+は初めて	O
+なので	O
+、	O
+観光に便利	B-strong
+な	O
+所	O
+、	O
+予算	O
+は	O
+5	B-strong
+万円	I-strong
+まで	I-strong
+、	O
+できれば	O
+露天風呂	B-neutral
+があったら	O
+うれしいです	O
+。	O
+
+
+
+はい	O
+、	O
+みんな	O
+大丈夫です	O
+。	O
+
+
+
+
+
+
+
+部屋も	B-neutral
+とても	I-neutral
+きれいだし	I-neutral
+、	O
+料理が	B-neutral
+とても	I-neutral
+おいしそう	I-neutral
+です	O
+。	O
+
+ここ	B-strong
+、	O
+気に入りました	O
+。	O
+
+
+
+
+
+
+
+
+料理も	B-neutral
+おいしそう	I-neutral
+だし	O
+、	O
+お風呂が	B-neutral
+すごい	I-neutral
+ですね	O
+。	O
+
+両親も	O
+好きな	O
+量を	O
+食べれる	O
+ので	O
+バイキング形式	B-weak
+の	O
+方がいいかもしれません	O
+。	O
+
+
+
+特に	O
+ないです	O
+。	O
+
+
+はい	O
+、	O
+お願いします	O
+。	O
+
+
+平日	O
+出発	O
+、	O
+21	O
+日	O
+ぐらい	O
+なら	O
+料金は	O
+変わります	O
+か	O
+?	O
+。	O
+
+
+
+
+わかりました	O
+。	O
+
+有難うございます	O
+。	O
+
+2	O
+件	O
+目の	O
+宿が	O
+良かったと思います	O
+。	O
+
+
+
+
+
+
+
+見	O
+ました	O
+。	O
+
+格式	B-weak
+があり	I-weak
+過ぎて	I-weak
+少し	O
+疲れ	O
+そうです	O
+。	O
+(	O
+笑	O
+)	O
+。	O
+
+2	O
+番目	O
+に	O
+紹介	O
+してもらった	O
+宿で	O
+予約	O
+したいと思います	O
+。	O
+
+条件	O
+にぴったり	O
+でした	O
+。	O
+
+有難うございました	O
+。	O
+
+1	B-strong
+月	I-strong
+4	I-strong
+日から	I-strong
+2	B-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+夜	B-strong
+ごはん	I-strong
+と	I-strong
+朝ごはんが	I-strong
+欲しいです	O
+。	O
+
+
+
+
+湯畑	B-strong
+に近く	I-strong
+、	O
+駐車場	B-strong
+があり	O
+、	O
+予算	O
+は	O
+1	O
+人	O
+20	B-strong
+,000	I-strong
+円	I-strong
+ぐらいです	I-strong
+。	O
+
+貸切露天風呂は	B-neutral
+こだわり	O
+ません	O
+。	O
+
+
+
+はい	O
+。	O
+
+
+
+
+
+
+
+
+
+いいですね	O
+(^^)	O
+。	O
+
+徒歩	B-weak
+10	I-weak
+分	I-weak
+なら	O
+散歩	O
+に	O
+いいですね	O
+。	O
+
+やど	B-weak
+も	O
+気に入りました	O
+。	O
+
+
+
+
+
+
+
+ペンション	B-neutral
+は少し	O
+抵抗	O
+があります	O
+。	O
+
+
+はい	O
+。	O
+
+
+
+
+
+
+最初の	O
+宿の方が	O
+良かったです	O
+。	O
+
+
+
+
+予算	O
+内	O
+ですし	O
+、	O
+上州牛	B-neutral
+も良かったので	O
+、	O
+最初の	O
+宿に	O
+します	O
+。	O
+
+
+
+ありがとうございます	O
+。	O
+
+
+はい	O
+。	O
+
+
+12	B-strong
+月	I-strong
+22	I-strong
+日から	I-strong
+23	I-strong
+日で	I-strong
+22	O
+日に	O
+一泊	B-strong
+したいと思います	O
+。	O
+
+人数	O
+は	O
+妻と	O
+2	B-strong
+人で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+、	O
+部屋食で	B-strong
+お願いします	O
+。	O
+
+
+旅館は	B-weak
+貸し切り風呂	B-weak
+を希望	O
+したいです	O
+。	O
+
+まだ	O
+到着時間が	O
+分かりませんが	O
+、	O
+公共交通機関	O
+次第で	O
+は	O
+、	O
+旅館	O
+から	O
+の送迎	B-weak
+をお願い	O
+できればと思います	O
+。	O
+
+予算	O
+的には	O
+、	O
+一人	O
+3000	B-strong
+0	I-strong
+円程度	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+草津	O
+ホテル	O
+の方は	O
+、	O
+禁煙	O
+と	O
+喫煙	O
+が	O
+明記	O
+されていましたが	O
+、	O
+木の葉	B-weak
+の方は	O
+明記	O
+されていなかった	O
+ので	O
+、	O
+教えて	O
+頂けます	O
+か	O
+。	O
+
+実は	O
+喫煙	B-strong
+するので	O
+。	O
+
+施設	O
+自体は	O
+木の葉	B-weak
+の方が	O
+イメージ	O
+に	O
+合って	O
+いる	O
+とは思います	O
+。	O
+
+喫煙	O
+が	O
+室内で	O
+無理	O
+なら	O
+、	O
+館内に	O
+喫煙所	B-weak
+があれば	O
+それでも	O
+構わない	O
+ので	O
+、	O
+その	O
+辺り	O
+を教えて	O
+頂ければと思います	O
+。	O
+
+
+
+早速	O
+ありがとうございます	O
+。	O
+
+それ	O
+であれば	O
+問題はありません	O
+ので	O
+、	O
+木の葉	B-strong
+の	O
+最上階	B-strong
+確約	I-strong
+プランで	I-strong
+お願いします	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+それと	O
+、	O
+先	O
+程	O
+お尋ね	O
+した	O
+、	O
+宿から	O
+の送迎	B-weak
+は	O
+、	O
+こちらから	O
+到着	O
+すれば	O
+電話	O
+すれば	O
+大丈夫	O
+と言う	O
+解	O
+釈	O
+で	O
+いいです	O
+か	O
+。	O
+
+
+
+
+
+分かりました	O
+。	O
+
+それだけ	O
+の	O
+本数	O
+がある	O
+ならば	O
+、	O
+事前の	O
+連絡	O
+は	O
+問題ない	O
+ので	O
+、	O
+私	O
+の方から	O
+宿の	O
+予約	O
+と共に	O
+事前予約	O
+しておきます	O
+。	O
+
+
+
+
+時期は	B-neutral
+はっきり	I-neutral
+していません	I-neutral
+が	O
+、	O
+来年	B-strong
+5	I-strong
+月の連休	B-strong
+明け	I-strong
+の	O
+金曜日	B-strong
+から	I-strong
+日曜日	I-strong
+まで	I-strong
+2	B-strong
+泊	I-strong
+3	I-strong
+日	I-strong
+、	O
+夫婦	O
+2	B-strong
+人の	I-strong
+予定です	O
+。	O
+
+
+
+2	B-strong
+食	I-strong
+とも	O
+お願いします	O
+。	O
+
+部屋は和室	B-strong
+を希望します	O
+。	O
+
+
+
+せっかく	O
+草津	B-strong
+に泊まるなら	O
+、	O
+温泉を堪能	B-strong
+したいと思います	O
+が	O
+、	O
+貸し切り	B-neutral
+等	O
+は必要	O
+ありません	O
+。	O
+
+新緑の季節	B-strong
+と思うので	O
+そのような	O
+立地で	O
+、	O
+1	O
+人	O
+当たり	O
+1	B-strong
+万	I-strong
+5	I-strong
+千円	I-strong
+程度で	I-strong
+考えて	O
+います	O
+。	O
+
+
+遠方から	O
+になる	O
+のですが	O
+目的地	O
+までの	O
+ルート	O
+を	O
+どのように	O
+するか	O
+についても	O
+アドバイスを	O
+頂ける	O
+のですか	O
+?	O
+。	O
+
+
+山口県	O
+です	O
+。	O
+
+
+
+
+
+よろしくお願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+おおむね	O
+良いと思います	O
+。	O
+
+
+
+このまま	O
+で	O
+お願いします	O
+。	O
+
+
+
+短い	O
+旅	O
+程	O
+なので	O
+山口	O
+宇	O
+部	O
+空港	O
+利用	O
+でしょうね	O
+。	O
+
+
+今は	O
+バスが	B-weak
+便利で	O
+料金	O
+的にも	O
+安い	O
+のですね	O
+。	O
+
+
+
+高速バス	O
+のプランで	O
+、	O
+朝	O
+いちばん	O
+で	O
+山口	O
+空港	O
+を	O
+出た	O
+場合	O
+、	O
+帰	O
+着	O
+を	O
+最終	O
+便	O
+と	O
+すると	O
+草津	O
+には	O
+どの	O
+程度	O
+滞在	O
+できます	O
+か	O
+?	O
+。	O
+
+
+ど	O
+も	O
+程度	O
+まで	O
+わからなかった	O
+ので	O
+・・	O
+了解	O
+しました	O
+。	O
+
+
+交通手段	O
+については	O
+こちらで	O
+調べ	O
+ます	O
+・	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+第一	O
+希望	O
+▁	O
+11	B-strong
+月	I-strong
+25	I-strong
+日	I-strong
+。	I-strong
+
+第二	O
+希望	O
+▁	O
+11	B-weak
+月	I-weak
+18	I-weak
+日	I-weak
+。	I-weak
+
+大人	B-strong
+2	I-strong
+人	I-strong
+。	O
+
+
+
+朝は	B-weak
+バイキング	I-weak
+希望	O
+夕	B-weak
+は	I-weak
+会席	I-weak
+希望	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	B-strong
+泊	I-strong
+、	O
+2	B-strong
+人で	I-strong
+泊まる	O
+予定です	O
+。	O
+
+草津	B-strong
+で	O
+露天風呂が	B-strong
+大き目	I-strong
+な	O
+宿	O
+を教えて	O
+ください	O
+。	O
+
+
+
+2	B-strong
+/	I-strong
+26	I-strong
+です	O
+。	O
+
+
+
+それ以外は	O
+特に	O
+決めて	O
+いません	O
+。	O
+
+
+大分	O
+見ている	O
+ので	O
+、	O
+今は	O
+露天風呂の	B-strong
+大きい	I-strong
+ところを探して	O
+います	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+電車で	O
+行きます	O
+ので	O
+、	O
+木の葉	B-weak
+は	O
+湯畑	O
+から歩いて	O
+何	O
+分くらい	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+ありがとうございます	O
+、	O
+検討して	O
+みます	O
+。	O
+
+
+2	B-strong
+歳の子供	B-strong
+が一緒	I-strong
+に宿泊	I-strong
+しやすく	I-strong
+、	O
+リーズナブルな	B-strong
+宿を探して	O
+います	O
+。	O
+
+大人	B-strong
+は	I-strong
+2	I-strong
+名	I-strong
+です	O
+。	O
+
+12	B-weak
+月の	I-weak
+平日で	B-weak
+考えて	O
+います	O
+。	O
+
+
+
+
+一泊	B-strong
+2	I-strong
+日の	I-strong
+、	O
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+お願い致します	O
+。	O
+
+布団は	B-weak
+不要	O
+です	O
+。	O
+
+食事は	O
+子供用の	B-weak
+メニュー	I-weak
+など	O
+ある	O
+のでしょうか	O
+。	O
+
+ただ	O
+、	O
+まだ	O
+食べれない	B-weak
+もの	I-weak
+もあるので	I-weak
+難しい	O
+所	O
+なのですが	O
+。	O
+?	O
+。	O
+
+
+
+
+そう	O
+なんです	O
+。	O
+
+2	O
+歳	O
+なのですが	O
+濃い	B-weak
+味付け	I-weak
+などは	O
+き	O
+になってしまいます	O
+。	O
+
+わかりました	O
+。	O
+
+予算	O
+は	O
+一人	O
+1	B-strong
+万	I-strong
+ほど	I-strong
+、	O
+立地は	O
+観光スポット	B-strong
+までのアクセス	I-strong
+が	I-strong
+便利な場所	I-strong
+が良いです	O
+。	O
+
+車	B-weak
+ではなく	O
+、	O
+交通機関	B-weak
+を使って	I-weak
+行ける	I-weak
+宿泊施設	O
+があれば	O
+なお	O
+良いです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11	B-strong
+月	I-strong
+23	I-strong
+日	I-strong
+、	O
+24	B-strong
+日の	I-strong
+2	B-strong
+泊	I-strong
+、	O
+4	B-strong
+人	I-strong
+なのですが	O
+。	O
+
+
+
+子供は	B-strong
+1	I-strong
+人	I-strong
+です	O
+。	O
+
+
+
+
+4	B-strong
+歳	I-strong
+です	O
+。	O
+
+子供向けの	B-strong
+料理	I-strong
+をお願いします	O
+。	O
+
+
+
+
+大人	O
+1	O
+人	O
+2	B-strong
+万	I-strong
+弱	I-strong
+で	O
+食事は	O
+2	B-strong
+食	I-strong
+で	O
+お願いします	O
+。	O
+
+できれば	O
+夕食は	B-weak
+部屋で	I-weak
+食べたい	I-weak
+のですが	O
+朝は	B-neutral
+バイキング	I-neutral
+だと	O
+嬉しいです	O
+。	O
+
+貸切風呂は	B-weak
+、	O
+有料	O
+であれば	O
+値段	O
+を教えて	O
+ください	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+宿泊日	B-neutral
+はまだ	I-neutral
+決まって	I-neutral
+いない	I-neutral
+のですが	O
+人数	O
+は	O
+、	O
+大人	B-strong
+4	I-strong
+人	I-strong
+、	O
+小学生	B-strong
+1	I-strong
+人	I-strong
+、	O
+幼稚園	B-strong
+生	I-strong
+1	I-strong
+人	I-strong
+計	B-strong
+6	I-strong
+人	I-strong
+です	O
+。	O
+
+3	O
+人	O
+ずつ	O
+で	O
+2	B-strong
+部屋	I-strong
+探	O
+しております	O
+。	O
+
+
+
+はい	O
+、	O
+お願いします	O
+。	O
+
+12	B-strong
+月の	I-strong
+土曜日	I-strong
+から	O
+1	B-strong
+泊で	I-strong
+2	B-strong
+部屋	I-strong
+取れる	O
+日にち	O
+があれば	O
+教えて	O
+いただけると	O
+助かります	O
+。	O
+
+部屋が	O
+空いている	O
+日から	O
+日にち	O
+を	O
+決めた	O
+い	O
+ので	O
+。	O
+
+
+
+
+よろしくお願いします	O
+。	O
+
+食事は	O
+、	O
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+お願いします	O
+。	O
+
+
+和室の部屋	B-weak
+を希望します	O
+。	O
+
+無料の	B-neutral
+貸切風呂	I-neutral
+があると	O
+良いです	O
+。	O
+
+湯畑	B-weak
+まで	I-weak
+歩いて行ける	I-weak
+ところが	O
+良いです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+どちらも	B-strong
+ステキ	O
+で	O
+悩んだ	O
+のですが	O
+、	O
+最初に	O
+ご提案	O
+いただいた	O
+こたつ	O
+付き	O
+の方	O
+にしようか	O
+と思います	O
+。	O
+
+ただ	O
+、	O
+日にち	O
+が	O
+17	O
+日	O
+ですと	O
+日曜日	O
+から	O
+1	B-weak
+泊	I-weak
+になる	O
+と思うのですが	O
+土曜日	B-weak
+から	O
+1	O
+泊	O
+できる	O
+日程	O
+で	O
+空き	O
+はあります	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+プラン	O
+確認	O
+いたしました	O
+。	O
+
+通常	B-weak
+量	I-weak
+プランで	I-weak
+お願いします	O
+。	O
+
+料金	O
+の	O
+見	O
+方が	O
+分からない	O
+のですが	O
+、	O
+4	O
+9	O
+400	O
+円は	O
+2	O
+部屋	O
+合計	O
+の	O
+料金	O
+でしょうか	O
+?	O
+。	O
+
+
+
+詳細	O
+、	O
+確認	O
+しました	O
+。	O
+
+こちらの宿	O
+で	O
+お願いします	O
+。	O
+
+車で	O
+行きたい	O
+のですが	O
+、	O
+駐車場は	B-weak
+ございます	O
+か	O
+?	O
+。	O
+
+
+
+
+駐車場の件	O
+、	O
+承知	O
+しました	O
+。	O
+
+予約して	O
+みます	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+大人	B-strong
+二	I-strong
+名	I-strong
+小学生	B-strong
+一人	I-strong
+二泊三日	B-strong
+にて	O
+。	O
+
+
+子供用	B-weak
+スリッパは	I-weak
+有ります	O
+か	O
+?	O
+。	O
+
+3	B-strong
+月上旬	I-strong
+。	O
+
+
+
+
+
+安い	B-strong
+日にち	I-strong
+で	O
+お願い致します	O
+。	O
+
+
+
+朝夕	B-strong
+二	I-strong
+食	I-strong
+にて	O
+。	O
+
+食事は	O
+部屋食	O
+?	O
+それと	O
+も	O
+食堂	O
+でしょうか	O
+?	O
+。	O
+
+
+
+どちら	O
+でも	O
+大丈夫です	O
+。	O
+
+
+
+駅近	B-weak
+また	O
+は	O
+送迎	B-weak
+有り	O
+その他は	O
+特に	O
+なし	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+飯	B-weak
+島	I-weak
+館	I-weak
+。	O
+趣のある	B-weak
+雰囲気で	I-weak
+ピッ	O
+タ	O
+シ	O
+です	O
+。	O
+
+大	O
+ざ	O
+っぱ	O
+の希望で	O
+ピッ	O
+タ	O
+シ	O
+だったので	O
+びっくりしました	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+
+
+ありがとうございました	O
+。	O
+
+
+12	B-strong
+月	I-strong
+31	I-strong
+から	O
+1	B-strong
+泊	I-strong
+、	O
+大人	B-strong
+2	I-strong
+人と	I-strong
+子供	B-strong
+1	I-strong
+人で	I-strong
+良い所	O
+があります	O
+か	O
+?	O
+。	O
+
+
+
+朝	O
+、	O
+夕	O
+の	O
+2	B-weak
+食	I-weak
+で	O
+、	O
+バイキング	B-weak
+がいいです	O
+。	O
+
+
+
+では	O
+、	O
+1	B-strong
+月	I-strong
+1	I-strong
+日から	I-strong
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+9	B-weak
+歳	I-weak
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+ホテル	B-weak
+がとても	O
+魅力的です	O
+が	O
+、	O
+やはり	O
+お値段が	B-weak
+合わない	I-weak
+ようです	O
+。	O
+
+伊香保温泉	B-weak
+の方は	O
+どんな	O
+感じです	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+どちらも	B-weak
+魅力的です	O
+ね	O
+。	O
+
+迷う	O
+ところですが	O
+、	O
+かつ	B-strong
+ほ	I-strong
+は	O
+、	O
+貸切風呂	B-weak
+に入って	O
+み	O
+たくなりました	O
+し	O
+、	O
+お料理も	B-weak
+ボリューム	I-weak
+あり	I-weak
+そうで	I-weak
+、	O
+こちらに	O
+しよう	O
+かなと思います	O
+。	O
+
+
+
+自分で	O
+する	O
+んですね	O
+。	O
+
+分かりました	O
+。	O
+
+
+
+1	B-strong
+月	I-strong
+6	I-strong
+日に	I-strong
+旅行	O
+の予定	O
+があるのですが	O
+、	O
+大人	B-strong
+2	I-strong
+人	I-strong
+、	O
+子供	B-strong
+1	I-strong
+人で	I-strong
+どこか	O
+良いところ	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+食事は	O
+出来れば	O
+バイキング	B-weak
+がいいです	O
+。	O
+
+子供は	B-weak
+9	I-weak
+歳	I-weak
+です	O
+。	O
+
+食事と	B-strong
+布団も	I-strong
+お願いします	O
+。	O
+
+
+
+
+おねがい	O
+します	O
+。	O
+
+
+
+
+
+
+こちらの宿	O
+は少し	O
+料金が	B-weak
+合わない	I-weak
+ようです	O
+。	O
+
+もう少し	O
+リーズナブルな	B-strong
+もの	O
+は無い	O
+でしょうか	O
+。	O
+
+バイキングで	B-neutral
+なくても	O
+いいです	O
+。	O
+
+
+
+
+3	B-strong
+万	I-strong
+円以内	I-strong
+で	O
+考えて	O
+います	O
+。	O
+
+
+
+
+
+
+お食事も	B-weak
+豪華	I-weak
+そうです	I-weak
+し	O
+、	O
+くつろげ	B-weak
+そうです	I-weak
+。	O
+
+こちらに	O
+決め	O
+たいと思います	O
+。	O
+
+
+
+良いと思います	O
+。	O
+
+
+
+車で移動	B-weak
+します	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+
+
+ありがとうございました	O
+。	O
+
+1	B-strong
+月	I-strong
+6	I-strong
+~	I-strong
+7	I-strong
+日で	I-strong
+人数	O
+は	O
+大人	B-strong
+2	I-strong
+人	I-strong
+、	O
+子供	B-strong
+3	I-strong
+人	I-strong
+探して	O
+います	O
+。	O
+
+
+9	B-strong
+歳	I-strong
+が	I-strong
+2	I-strong
+人と	I-strong
+3	B-strong
+歳	I-strong
+が	I-strong
+1	I-strong
+人	I-strong
+です	O
+。	O
+
+
+必要	O
+ありません	O
+。	O
+
+
+予算	O
+は	O
+大人	O
+1	O
+人	O
+20	B-strong
+,000	I-strong
+円以内	I-strong
+。	O
+
+食事は	B-strong
+朝夕	I-strong
+。	O
+
+朝は	B-weak
+バイキング	I-weak
+希望	O
+。	O
+
+禁煙ルーム	B-strong
+がいいです	O
+。	O
+
+和室で	B-weak
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+これは	O
+両方とも	O
+夕食バイキング	O
+ですか	O
+?	O
+。	O
+
+
+夕食はバイキング	B-weak
+ではない	O
+ほうが良い	O
+のですが	O
+。	O
+
+
+
+はい	O
+。	O
+
+よろしくお願いします	O
+。	O
+
+
+
+
+
+
+
+なかなか	O
+良さそう	O
+ですね	O
+。	O
+
+
+
+
+
+
+
+
+
+
+2	B-strong
+つ	O
+目が	O
+いい	O
+かなと思います	O
+。	O
+
+
+
+
+はい	O
+。	O
+
+分かりました	O
+。	O
+
+
+
+はい	O
+。	O
+
+ありがとうございました	O
+。	O
+
+3	B-strong
+月上旬	I-strong
+で	O
+、	O
+二泊三日	B-strong
+で	O
+女性	O
+二人で	B-strong
+お願いします	O
+、	O
+。	O
+
+
+二人とも	O
+その	O
+時期	O
+だと	O
+いつでも	O
+休みが取れ	O
+るので	O
+、	O
+いい宿	O
+が	O
+空いていれば	O
+3	B-weak
+/	I-weak
+5	I-weak
+の	I-weak
+週	I-weak
+に	O
+できればと思います	O
+。	O
+
+
+
+
+朝夕	B-strong
+二食付き	I-strong
+で	O
+、	O
+出来れば	O
+バイキング	B-weak
+ではない	O
+ほうがいい	O
+です	O
+。	O
+
+
+宜しくお願いします	O
+。	O
+
+
+露天風呂	B-neutral
+があれば	O
+素敵です	O
+が	O
+、	O
+ゲームセンター	B-weak
+などの	O
+ない	O
+静かな	B-strong
+旅館	B-weak
+か	O
+ホテル	B-weak
+をお願いします	O
+。	O
+
+
+
+ありがとうございます	O
+。	O
+
+何	O
+日	O
+だと	O
+予約が取れ	O
+ます	O
+か	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+予算	O
+面で	O
+は	O
+できれば	O
+一泊	O
+20	B-weak
+,000	I-weak
+以内	I-weak
+で	O
+お願いしたい	O
+のですが	O
+。	O
+
+
+いい	B-strong
+え	O
+一人	O
+一泊	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+では	O
+先	O
+ほどの	O
+晩	B-strong
+という	O
+お宿で	O
+3	B-strong
+/	I-strong
+6	I-strong
+,	I-strong
+7	I-strong
+で	O
+お願い	O
+できます	O
+でしょうか	O
+?	O
+。	O
+
+
+
+了解	O
+致しました	O
+ありがとうございました	O
+。	O
+
+まだ	O
+全然	O
+具体的に	O
+は	O
+決めて	O
+おりません	O
+が	O
+、	O
+来年	B-weak
+4	I-weak
+月頃	I-weak
+に	O
+1	B-weak
+泊	I-weak
+くらいで	I-weak
+と思っています	O
+。	O
+
+
+
+大人	B-strong
+4	I-strong
+人	I-strong
+です	O
+。	O
+
+
+家族	B-strong
+です	O
+。	O
+
+
+はい	O
+。	O
+
+また	O
+は	O
+2	O
+人	O
+ずつ	O
+で	O
+二部屋	B-neutral
+でも	O
+構いません	O
+。	O
+
+
+
+はい	O
+、	O
+お願い致します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+共に	O
+今の時期	O
+の	O
+お値段は	O
+比較的	B-weak
+リーズナブル	I-weak
+ですね	O
+。	O
+
+4	O
+月は	O
+両親の	O
+結婚記念日	B-weak
+なので	O
+、	O
+お祝い	B-weak
+してくださったり	I-weak
+する	I-weak
+お宿	O
+はあります	O
+か	O
+?	O
+。	O
+
+父が	O
+あまり	O
+足	O
+が良く	O
+ないので	O
+、	O
+バリアフリー	B-weak
+や	O
+食事処	B-weak
+が	I-weak
+椅子	I-weak
+だと	O
+助かります	O
+。	O
+
+
+そうな	O
+のですね	O
+...	O
+残念です	O
+。	O
+
+わかりました	O
+!	O
+。	O
+
+では	O
+湯畑	B-weak
+に近く	I-weak
+、	O
+洋室	B-weak
+のある	O
+お宿は	O
+他に	O
+あります	O
+か	O
+?	O
+。	O
+
+
+
+
+和洋室	B-weak
+あり	O
+で	O
+食事処	B-weak
+も	I-weak
+椅子	I-weak
+みたいです	O
+し	O
+、	O
+口コミ評価	B-weak
+も	I-weak
+高い	I-weak
+ので	O
+、	O
+もし	O
+草津	B-weak
+に行くことがあれば	O
+候補に	O
+いれて	O
+みます	O
+。	O
+
+やはり	O
+湯畑	B-weak
+近く	I-weak
+の方が	O
+観光も	O
+し	O
+やす	O
+そうです	O
+し	O
+、	O
+移動	O
+に	O
+時間の	O
+かかる	O
+父	O
+には	O
+助かります	O
+し	O
+。	O
+
+
+いい	O
+え	O
+、	O
+ありません	O
+。	O
+
+もし	O
+こちらのお宿	O
+利用する	O
+際には	O
+、	O
+お祝い	O
+プラン	O
+や	O
+バリアフリー	O
+の事	O
+など	O
+直接	O
+お宿	O
+に	O
+聞いて	O
+みます	O
+。	O
+
+
+2	B-weak
+月	I-weak
+中の	I-weak
+平日に	B-strong
+2	B-strong
+名で	I-strong
+行きたい	O
+と考えています	O
+。	O
+
+
+
+
+2018	B-strong
+年	I-strong
+2	I-strong
+月	I-strong
+15	I-strong
+、	O
+16	B-strong
+日	I-strong
+か	O
+22	B-strong
+,	O
+23	B-strong
+日で	I-strong
+、	O
+いかがでしょうか	O
+。	O
+
+
+
+
+1	B-strong
+泊で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+貸し切り	B-strong
+など	O
+は必要	O
+ありませんが	O
+、	O
+鉄道	O
+利用	O
+なので	O
+、	O
+駅から	B-weak
+なるべく	I-weak
+近い	I-weak
+ところ	O
+がいいです	O
+。	O
+
+
+
+
+
+あい	O
+まい	O
+で	O
+すみません	O
+。	O
+
+できれば	O
+洋室	B-weak
+で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+悪くない	O
+ようですが	O
+、	O
+食事の量	B-weak
+が	I-weak
+心配	I-weak
+です	O
+。	O
+
+よく	O
+、	O
+多すぎ	B-weak
+て	I-weak
+食べきれ	I-weak
+なくなる	I-weak
+こと	O
+が多いので	O
+...	O
+。	O
+
+
+
+
+
+
+
+
+
+
+これは	O
+素敵ですね	O
+。	O
+
+食事も	O
+洋食	B-weak
+なので	O
+好み	O
+です	O
+!	O
+。	O
+
+
+
+和食	B-weak
+は	O
+嫌い	O
+ではないのですが	O
+、	O
+洋食	B-weak
+なら	O
+その	O
+ほうが	O
+嬉しいです	O
+。	O
+
+
+そうですね	O
+。	O
+
+あとは	O
+料金	O
+次第です	O
+。	O
+
+
+だいたい	O
+予算	B-weak
+内	I-weak
+です	O
+。	O
+
+
+
+このホテル	O
+が	O
+いいと思います	O
+ので	O
+、	O
+ここで	O
+お願いします	O
+。	O
+
+
+はい	O
+、	O
+分かりました	O
+。	O
+
+
+
+1	B-strong
+月中旬	I-strong
+に	O
+家族で	B-strong
+お願いします	O
+。	O
+
+大人	B-strong
+3	I-strong
+名	I-strong
+です	O
+。	O
+
+
+
+1	B-strong
+月	I-strong
+7	I-strong
+日	I-strong
+土曜	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+地元食材	B-strong
+を使った	I-strong
+郷土料理	I-strong
+的な	O
+パターン	O
+で	O
+。	O
+
+二食付き	B-strong
+を希望します	O
+。	O
+
+
+こじんまりした	B-strong
+宿で	I-strong
+広め	B-strong
+な	I-strong
+露天風呂	I-strong
+、	O
+予算	O
+は	O
+1	O
+人	O
+1	B-strong
+2000	I-strong
+円くらい	I-strong
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+口コミ	B-weak
+評価が高い	I-weak
+ですね	O
+。	O
+
+料理も	B-weak
+オシャレな	I-weak
+感じです	O
+。	O
+
+設備が	B-weak
+古そう	I-weak
+な感じ	O
+なのが	O
+気になります	O
+が	O
+、	O
+コスパは	B-weak
+良さそう	I-weak
+ですね	O
+。	O
+
+
+
+
+
+
+
+
+
+こちらも	O
+家庭的な	B-weak
+感じです	O
+。	O
+
+道の駅	O
+にあるような	O
+ので	O
+ブラブラ	B-weak
+と	I-weak
+お散歩	I-weak
+出来	I-weak
+そうですね	I-weak
+。	O
+
+露天風呂	B-weak
+が無い	O
+のは残念です	O
+。	O
+
+
+
+
+
+
+
+
+
+設備や	B-weak
+お風呂は	B-weak
+良さそう	I-weak
+です	O
+。	O
+
+ちょっと	O
+イメージ	O
+が違う	O
+感じです	O
+。	O
+
+最初に	O
+見	O
+させていただいた	O
+宿に	O
+魅	O
+か	O
+れます	O
+。	O
+
+
+
+和食の	B-weak
+ペンション	B-weak
+なんて	O
+アリ	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+お風呂が	B-weak
+いろいろ	I-weak
+で	O
+いい感じ	O
+ですね	O
+。	O
+
+
+
+
+
+
+
+お風呂も	B-weak
+あって	I-weak
+いい感じ	I-weak
+ですね	O
+。	O
+
+しかも	O
+お値打ち	B-weak
+。	O
+
+
+
+
+最初の	O
+宿の雰囲気	B-weak
+が	I-weak
+いいなと思いました	I-weak
+。	O
+
+乙	B-weak
+女	I-weak
+心	I-weak
+も	I-weak
+く	I-weak
+すぐ	I-weak
+り	I-weak
+、	O
+食欲	B-weak
+も	I-weak
+満たされ	I-weak
+そうな	I-weak
+感じでした	O
+ので	O
+。	O
+
+
+女子会	B-neutral
+向け	I-neutral
+デザート	I-neutral
+付きプラン	I-neutral
+があれば	O
+。	O
+
+日程	O
+は	O
+、	O
+1	B-strong
+月の	I-strong
+平日	B-strong
+です	O
+。	O
+
+
+はい	O
+、	O
+お願いします	O
+。	O
+
+
+エステ	B-weak
+付きで	I-weak
+お値打ち	B-weak
+なら	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+老舗旅館	B-weak
+はちょっと	O
+贅沢	B-weak
+かなと	O
+。	O
+
+
+
+
+
+
+
+
+シモンズ	B-neutral
+、	O
+デザート	B-weak
+バイキングが	I-weak
+良いですね	O
+。	O
+
+
+さ	B-weak
+くらい	I-weak
+さんの	O
+アメニティ	B-weak
+と	O
+雰囲気が	B-weak
+乙	I-weak
+女	I-weak
+チック	I-weak
+で	O
+、	O
+テンション上がりました	O
+。	O
+
+
+
+はい	O
+、	O
+とっても	O
+いい	O
+勉強になりました	O
+。	O
+
+是非	O
+行こうと思います	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+3	B-strong
+月	I-strong
+31	I-strong
+日	I-strong
+~	I-strong
+4	I-strong
+月	I-strong
+1	I-strong
+日の	I-strong
+1	B-strong
+泊	I-strong
+2	I-strong
+日で	I-strong
+お願いします	O
+。	O
+
+
+
+大人	B-strong
+2	I-strong
+人と	I-strong
+子ども	B-strong
+(2	I-strong
+歳	I-strong
+)	I-strong
+1	I-strong
+人	I-strong
+です	O
+。	O
+
+
+
+朝夕	B-weak
+2	I-weak
+食	I-weak
+は	O
+ついていて	O
+ほしいです	O
+。	O
+
+子どもの	B-weak
+食事や	I-weak
+布団は	B-weak
+なくても	O
+いいです	O
+。	O
+
+
+
+
+温泉は	B-weak
+天然	I-weak
+だと思うので	O
+、	O
+それで	O
+いいですが	O
+、	O
+朝食は	B-weak
+できたら	I-weak
+バイキング	I-weak
+だと	O
+子どもと	O
+楽しく	O
+食べられる	O
+かと思います	O
+。	O
+
+宿から	O
+自然	B-weak
+が眺められ	I-weak
+るところ	I-weak
+だと	O
+いいです	O
+。	O
+
+
+
+ありがとうございます	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+どちらも	O
+、	O
+大浴場の	B-weak
+感じ	I-weak
+がとてもよく	I-weak
+部屋からの眺めも	B-weak
+素敵ですね	I-weak
+。	O
+
+もう少し	O
+安く	B-weak
+泊まろう	O
+と	O
+する場合	O
+は	O
+、	O
+どんな	O
+宿	O
+があり	O
+まあ	O
+す	O
+か	O
+?	O
+。	O
+
+
+
+
+
+ログハウス	B-weak
+の	I-weak
+宿泊プラン	I-weak
+がすごく	O
+いいです	O
+!	O
+。	O
+
+値段も	B-weak
+3	O
+人で	O
+泊まるなら	O
+、	O
+いい感じです	O
+。	O
+
+食事も	O
+バイキングで	B-weak
+種類も豊富	B-weak
+な	O
+感じがして	O
+気に入りました	O
+!!!	O
+。	O
+
+
+
+
+このプラン	B-weak
+で	O
+満足です	O
+。	O
+
+ありがとうございます	O
+。	O
+
+わかりました	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+1	B-strong
+月	I-strong
+19	I-strong
+.	I-strong
+20	I-strong
+日の	I-strong
+一泊二日	B-strong
+。	O
+
+二	B-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+
+二食付き	B-strong
+で	O
+お願いします	O
+。	O
+
+
+
+
+予算	O
+は	O
+一人	O
+上	B-strong
+限	I-strong
+1	I-strong
+5000	I-strong
+、	O
+駅から	B-strong
+送迎	I-strong
+あり	O
+、	O
+食事は	O
+和食	B-strong
+希望	O
+、	O
+景色が	B-strong
+いい	I-strong
+部屋	I-strong
+希望	O
+で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+料理も	B-weak
+お部屋も	B-weak
+いい感じ	I-weak
+ですね	O
+。	O
+
+ただ	O
+もう少し	O
+自然	B-weak
+を感じられる	I-weak
+景色	I-weak
+を希望	O
+したい	O
+のですが	O
+・・	O
+。	O
+
+
+
+そうですね	O
+。	O
+
+宿で	O
+過ごし	O
+ますので	O
+問題ありません	O
+。	O
+
+
+
+
+
+
+イメージ	O
+に近い	O
+感じです	O
+。	O
+
+食事も	B-weak
+よさそう	I-weak
+ですね	O
+。	O
+
+こちらの宿	B-strong
+で	O
+お願いします	O
+。	O
+
+
+
+承知	O
+しました	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+
+土日	B-strong
+に	O
+一泊二日で	B-strong
+、	O
+大人	B-strong
+2	I-strong
+名	I-strong
+、	O
+小学生	B-strong
+1	I-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+3	B-strong
+月	I-strong
+17	I-strong
+日	I-strong
+(	I-strong
+土	I-strong
+)	I-strong
+~	I-strong
+18	I-strong
+日	I-strong
+(	I-strong
+日	I-strong
+)	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+朝食のみ	B-strong
+お願いします	O
+。	O
+
+
+
+
+特に	O
+ありません	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+
+
+
+
+
+
+
+お	O
+宿自体は	O
+魅力的です	O
+が	O
+、	O
+やや	O
+値段が高い	B-weak
+ように感じます	O
+。	O
+
+一人	O
+1	B-strong
+5000	I-strong
+円くらい	I-strong
+で	O
+、	O
+他に	O
+あります	O
+でしょうか	O
+?	O
+。	O
+
+
+お願いします	O
+。	O
+
+
+
+
+
+
+料金も	O
+予算	B-weak
+内で	I-weak
+、	O
+部屋も広く	B-weak
+、	O
+立地	B-weak
+も良いので	I-weak
+、	O
+良さそう	O
+です	O
+。	O
+
+お風呂が	O
+宿の中	O
+には	O
+男女	O
+一つずつ	O
+のような	O
+のですが	O
+、	O
+「	O
+湯畑	B-weak
+」	O
+にも	O
+温泉がある	O
+のでしょうか	O
+?	O
+。	O
+
+(	O
+「	O
+湯畑	O
+」	O
+を	O
+知らない	O
+もので	O
+・・・)	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+お風呂が	B-weak
+多	I-weak
+種類	I-weak
+ある	I-weak
+お宿	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+お願いします	O
+。	O
+
+
+
+
+
+宿自体は	O
+良さそう	O
+ですが	O
+、	O
+部屋にトイレ	B-weak
+がない	I-weak
+ようなので	O
+、	O
+トイレ	B-weak
+付きの部屋	I-weak
+のある	O
+お宿の	O
+方が良いです	O
+。	O
+
+
+
+
+今のところ	O
+、	O
+気になったのは	O
+それだけ	O
+です	O
+。	O
+
+お手数	O
+おかけ	O
+します	O
+。	O
+
+
+
+
+
+
+
+
+気になる点	O
+もなく	O
+、	O
+全体的に	O
+良さそう	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+子供にも	B-weak
+安心	I-weak
+の	I-weak
+泉質	I-weak
+ということ	O
+と	O
+、	O
+朝食の	B-weak
+す	I-weak
+い	I-weak
+とん	I-weak
+が	O
+魅力的	O
+で	O
+惹	O
+か	O
+れました	O
+。	O
+
+
+
+最後に	O
+ご案内	O
+いただいた	O
+宿で	O
+決定	O
+に	O
+したいと思います	O
+。	O
+
+
+
+了解	O
+しました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+
+1	B-strong
+月	I-strong
+の中	I-strong
+旬	I-strong
+でお	B-strong
+と	I-strong
+な	I-strong
+2	I-strong
+人	I-strong
+です	O
+。	O
+
+
+
+平日	B-strong
+がいいです	O
+が	O
+まだ	O
+決まって	O
+ません	O
+。	O
+
+
+
+よろしくお願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食	I-strong
+で	O
+おねがい	O
+します	O
+。	O
+
+
+
+料理	B-strong
+にこだわり	I-strong
+がある	I-strong
+ところ	O
+がいいです	O
+。	O
+
+また	O
+街	O
+を散策	O
+したい	O
+ので	O
+、	O
+街	B-strong
+から	I-strong
+離れて	I-strong
+いない	I-strong
+所	O
+がいいです	O
+。	O
+
+
+
+1	B-strong
+2000	I-strong
+円	I-strong
+まで	I-strong
+で	O
+おねがい	O
+します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+しゃ	B-weak
+く	I-weak
+な	I-weak
+げ	I-weak
+が	O
+素敵ですね	B-weak
+。	O
+
+
+こちらで	B-strong
+お願いします	O
+。	O
+
+
+
+
+
+はい	O
+。	O
+
+はい	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+ありがとうございました	O
+m	O
+(__)	O
+m	O
+。	O
+
+平日	O
+休み	O
+なので	O
+、	O
+月	B-strong
+曜	I-strong
+~	I-strong
+金曜	I-strong
+の間	O
+の	O
+二日間	B-strong
+で	O
+恋人	B-strong
+もしくは	I-strong
+母の	I-strong
+どちらか	I-strong
+2	B-strong
+人で	I-strong
+行きたいと思います	I-strong
+。	O
+
+11	B-weak
+月	I-weak
+か	O
+1	O
+月	O
+、	O
+2	B-weak
+月	I-weak
+が	O
+希望	O
+です	O
+。	O
+
+
+
+
+ホテルの	B-weak
+近くに	I-weak
+美味しいお店	I-weak
+や	I-weak
+有名	I-weak
+店	I-weak
+があれば	O
+、	O
+そちら	O
+を利用して	O
+、	O
+無	O
+ければ	O
+朝夕	B-weak
+2	I-weak
+食付き	I-weak
+がいいです	O
+。	O
+
+とにかく	O
+美味しいものを食べ	B-strong
+たい	I-strong
+ので	O
+イン	B-strong
+スタ	I-strong
+映え	I-strong
+するような	O
+ベスト	O
+な	O
+選択	O
+を	O
+したいです	O
+。	O
+
+
+
+宿	O
+と	O
+食事で	O
+1	O
+人	O
+1	B-strong
+万	I-strong
+~	I-strong
+5	I-strong
+万	I-strong
+までの	I-strong
+予算	O
+です	O
+。	O
+
+新幹線	O
+も	O
+セット	O
+になっている	O
+もの	O
+もあれば	O
+教えて	O
+欲しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+よさそう	O
+ですが	O
+、	O
+こちらは	O
+テル	B-weak
+マ	I-weak
+エ	I-weak
+ロ	I-weak
+マ	I-weak
+エ	I-weak
+の	I-weak
+撮影	I-weak
+地	I-weak
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+
+撮影	B-weak
+に	I-weak
+使われ	I-weak
+た	I-weak
+大きな	I-weak
+温泉に浸かり	I-weak
+たい	O
+のですが	O
+、	O
+宿	O
+は別	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+喜び	B-weak
+の宿	I-weak
+▁	I-weak
+高松	I-weak
+も	I-weak
+温泉	I-weak
+が多く	O
+検討	O
+したい	O
+のですが	O
+、	O
+他にも	O
+湯畑	O
+近くの	B-weak
+おすすめ	I-weak
+高級旅館	B-weak
+は	I-weak
+ございます	I-weak
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+ホテル一井	O
+は	O
+ランキング	O
+を見て	O
+気になって	O
+ましたが	O
+、	O
+ハイクラス	B-weak
+の方が	O
+好きなので	O
+望	B-weak
+雲	I-weak
+にします	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+
+
+2	B-strong
+月	I-strong
+の中	I-strong
+旬	I-strong
+頃に	I-strong
+大人	B-strong
+4	I-strong
+名で	I-strong
+行きたいと思っています	O
+。	O
+
+
+できれば	O
+、	O
+金	B-weak
+土日	I-weak
+が良いです	O
+。	O
+
+2	B-neutral
+泊	I-neutral
+3	I-neutral
+日	I-neutral
+位	I-neutral
+で行ける	O
+と	O
+嬉しいです	O
+。	O
+
+
+はい	O
+、	O
+是非	O
+お願いいたします	O
+。	O
+
+
+
+はい	O
+、	O
+1	B-weak
+日目は	I-weak
+夕食	I-weak
+▁	O
+2	O
+日目は	B-weak
+朝夕	I-weak
+2	I-weak
+食	I-weak
+▁	I-weak
+3	I-weak
+日目は	B-weak
+朝	I-weak
+のみ	I-weak
+が	I-weak
+よいです	I-weak
+。	O
+
+
+
+
+はい	O
+、	O
+できれば	O
+大浴場	B-weak
+(	I-weak
+露天風呂	I-weak
+)	I-weak
+があって	O
+、	O
+お料理が	O
+美味しいと	B-neutral
+嬉しいです	O
+。	O
+
+お値段も	B-neutral
+そこそこ	I-neutral
+なら	O
+なお	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+はい	O
+、	O
+今	O
+見	O
+させていただきました	O
+。	O
+
+10	B-weak
+万円	I-weak
+くらいで	I-weak
+お料理も	O
+美味しそう	B-weak
+ですし	O
+、	O
+貸切露天風呂も	B-weak
+よい	O
+ですね	O
+。	O
+
+素敵	O
+だと思います	O
+。	O
+
+
+
+
+
+わ	B-weak
+~	O
+、	O
+こちらも	O
+よい	O
+ですね	O
+。	O
+
+お値段も	O
+少し	O
+安い	B-weak
+のですが	O
+、	O
+個性	B-weak
+があって	I-weak
+素敵です	I-weak
+。	O
+
+仰る通り	O
+お酒	B-weak
+好きにはたまらない	I-weak
+ですね	O
+。	O
+
+
+
+いえ	O
+、	O
+特に	O
+ございません	O
+。	O
+
+お料理が	O
+美味しくて	B-weak
+安くて	B-weak
+、	O
+露天風呂に	B-weak
+入ることができ	O
+れば	O
+十分です	O
+。	O
+
+
+
+いえ	O
+、	O
+洋風	B-weak
+タイプ	I-weak
+よりは	O
+、	O
+和	B-weak
+の	O
+感じ	O
+の方が	O
+好きです	O
+。	O
+
+2	O
+件	O
+の中から	O
+選ばせて	O
+いただきたいです	O
+。	O
+
+
+
+
+はい	O
+、	O
+できます	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+来年の	B-strong
+1	I-strong
+/	I-strong
+10	I-strong
+に	O
+大人	B-strong
+2	I-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+の	O
+部屋食で	B-strong
+お願いします	O
+。	O
+
+
+
+最寄りの	B-strong
+駅から徒歩	I-strong
+15	I-strong
+分程度で	I-strong
+、	O
+予算	O
+は	O
+15	B-strong
+,000	I-strong
+前後	I-strong
+がいいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+送迎バス	B-weak
+もあり	O
+プラン内容	B-weak
+も大変	I-weak
+良いですが	I-weak
+、	O
+もう少し	O
+値段が	O
+低め	B-weak
+のもの	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+プラン内容	B-weak
+、	O
+立地	B-weak
+、	O
+値段	B-weak
+共に	O
+気に入りました	O
+。	O
+
+ここで	B-strong
+お願いします	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+ありがとうございます	O
+。	O
+
+
+
+はっきり	O
+とは	O
+決まって	O
+いませんが	O
+、	O
+11	B-weak
+月の	I-weak
+あまり	B-weak
+混	I-weak
+ま	I-weak
+ない	I-weak
+とき	I-weak
+が良い	O
+と思っています	O
+。	O
+
+
+
+母と	O
+2	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+時間に余裕	O
+があるので	O
+、	O
+平日で	B-strong
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+湯畑	B-weak
+に	I-weak
+歩いていける	I-weak
+所	O
+が良いです	O
+。	O
+
+
+
+はい	O
+、	O
+お願い致します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+ライトアップされた	B-weak
+湯畑	I-weak
+がとても	I-weak
+素敵ですね	I-weak
+。	O
+
+11	B-weak
+月	I-weak
+だと	O
+、	O
+紅葉も	B-weak
+真	O
+っ	O
+盛り	O
+の	O
+ようです	O
+し	O
+、	O
+お風呂が	B-weak
+とても	I-weak
+大きくて	I-weak
+良い	B-weak
+泉質	I-weak
+の	O
+源泉かけ流しの	B-weak
+ようなので	O
+気持ちよく	O
+入れ	O
+そうです	O
+。	O
+
+草津	B-weak
+は	O
+、	O
+日本の	O
+3	O
+大	O
+名	O
+泉	O
+の	O
+1	O
+つ	O
+なので	O
+とても	O
+楽しめ	O
+そうです	O
+。	O
+
+お食事も	O
+山の中	O
+なのに	O
+魚料理	B-weak
+がある	O
+んですね	O
+。	O
+気に入りました	O
+。	O
+
+2	B-strong
+泊	I-strong
+3	I-strong
+日で	I-strong
+お願いします	O
+。	O
+
+
+わかりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+はい	O
+、	O
+お世話になりました	O
+。	O
+
+
+草津温泉	B-strong
+で	O
+紅葉の	B-strong
+楽しめる	I-strong
+頃に	I-strong
+行きたい	O
+のですが	O
+、	O
+いつ	O
+頃	O
+が	O
+おすすめです	O
+か	O
+?	O
+。	O
+
+
+
+それなら	O
+、	O
+おすすめの	O
+行事	O
+など	O
+、	O
+草津	B-weak
+ならではの	I-weak
+ことがあれば	I-weak
+、	O
+それ	O
+に合わせて	O
+行きたい	O
+のですが	O
+。	O
+
+そ	O
+したら	O
+、	O
+来週	B-weak
+の	I-weak
+週末	I-weak
+で	O
+。	O
+
+
+電車で	O
+行くので	O
+、	O
+アクセスの良い	B-weak
+お宿	O
+、	O
+送迎	B-weak
+のある	O
+お宿	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+お願いします	O
+。	O
+
+小学生	B-strong
+が	I-strong
+1	I-strong
+人	I-strong
+中学生	B-strong
+が	I-strong
+1	I-strong
+人	I-strong
+大人	B-strong
+が	I-strong
+2	I-strong
+人の	I-strong
+計	B-strong
+4	I-strong
+人	I-strong
+です	O
+。	O
+
+
+はい	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+お部屋に	B-weak
+お風呂は	I-weak
+ついています	O
+か	O
+?	O
+。	O
+
+
+
+
+できれば	O
+部屋食	B-weak
+、	O
+お風呂	B-weak
+つき	I-weak
+が	O
+良いのですが	O
+。	O
+
+
+
+
+
+
+
+一週間	B-weak
+後に	I-weak
+ずら	O
+したら	O
+どう	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+大	B-weak
+東	I-weak
+舘	I-weak
+、	O
+良さそう	O
+ですね	O
+!	O
+。	O
+
+
+
+子供の	O
+誕生日	O
+が近い	O
+のですが	O
+、	O
+小さな	B-weak
+ケーキ	I-weak
+を付けて	O
+いただいたり	O
+とか	O
+できる	O
+でしょうか	O
+?	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+こちらのお宿	O
+に	O
+決め	O
+ます	O
+。	O
+
+
+
+はい	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+
+宿泊日	B-weak
+は	I-weak
+未	I-weak
+定	I-weak
+で	O
+、	O
+宿泊料金	B-strong
+の	I-strong
+安い	I-strong
+日	I-strong
+希望	O
+です	O
+。	O
+
+宿泊	O
+人数	O
+は	O
+2	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+
+はい	O
+、	O
+それで	O
+お願いします	O
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+を希望します	O
+。	O
+
+
+
+立地は	O
+公共交通機関	B-weak
+を使って	I-weak
+行くのに	I-weak
+便利な場所	I-weak
+で	O
+、	O
+できれば	O
+鄙	B-weak
+び	I-weak
+た	I-weak
+雰囲気の	I-weak
+所	O
+がいいです	O
+。	O
+
+予算	O
+は	O
+税込	O
+み	O
+で	O
+一人	O
+当たり	O
+1	B-strong
+万	I-strong
+円以内	I-strong
+を希望します	O
+。	O
+
+風呂は	B-neutral
+貸し切りで	I-neutral
+なくて	O
+構いません	O
+。	O
+
+
+
+いい	O
+え	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+イメージ	O
+と違う	O
+という事	O
+はありませんでした	O
+。	O
+
+加え	O
+たい	O
+条件	O
+は	O
+、	O
+部屋で	O
+喫煙	B-weak
+できる	O
+事です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+この宿	B-strong
+・	O
+プランは	O
+候補に	O
+入り	O
+ません	O
+。	O
+
+雰囲気は	B-weak
+良さそう	I-weak
+ですが	O
+駅から遠い	B-weak
+ようですね	O
+。	O
+
+食事も	B-weak
+私たちには	I-weak
+足り	I-weak
+な	I-weak
+そうです	I-weak
+。	O
+
+
+
+わかりました	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+この宿	B-weak
+・	O
+プランは	O
+いいなと思います	O
+。	O
+
+
+
+こちらこそ	O
+ありがとうございます	O
+。	O
+
+ほかの	O
+条件	O
+は	O
+思いつき	O
+ませんので	O
+案内	O
+して	O
+下	O
+さ	O
+らなくて	O
+結構	O
+です	O
+。	O
+
+
+私と	B-strong
+娘	B-strong
+、	O
+それと	O
+5	B-strong
+歳の	I-strong
+男	I-strong
+児	I-strong
+の	O
+孫	O
+です	O
+。	O
+
+日程	O
+は	O
+11	B-strong
+月末	I-strong
+ごろ	I-strong
+の	O
+土日	B-strong
+で	O
+お願いします	O
+。	O
+
+1	B-strong
+泊	I-strong
+2	I-strong
+日	I-strong
+です	O
+。	O
+
+
+
+はい	O
+、	O
+そちらで	O
+お願いします	O
+。	O
+
+
+
+孫	B-strong
+は	I-strong
+幼児	I-strong
+食	I-strong
+。	O
+
+大人	B-strong
+2	I-strong
+名	I-strong
+は	O
+1	B-strong
+泊	I-strong
+二食付き	B-strong
+で	O
+お願いします	O
+。	O
+
+お布団	B-strong
+は	O
+要らない	O
+です	O
+。	O
+
+
+大浴場が	B-weak
+広い	I-weak
+こと	O
+、	O
+食事が	B-weak
+凝った	I-weak
+もの	I-weak
+であること	O
+です	O
+。	O
+
+駅から近い	B-weak
+方が	O
+ありがたい	O
+。	O
+
+
+
+
+その中で	O
+希望	O
+に合った	O
+ところ	O
+はありません	O
+か	O
+?	O
+。	O
+
+
+はい	O
+。	O
+
+
+
+
+
+
+
+
+
+いいですね	O
+。	O
+
+孫	B-weak
+が	I-weak
+喜び	I-weak
+そうです	I-weak
+。	O
+
+高い	B-weak
+の	O
+ではないです	O
+か	O
+?	O
+。	O
+
+
+
+
+なんだか	O
+小	B-weak
+さ	I-weak
+そうな	I-weak
+宿	O
+の名前	O
+ですね	O
+。	O
+
+
+
+
+
+わかりました	O
+。	O
+
+ちょっと	O
+二	O
+店	O
+では	O
+比べ	O
+よう	O
+がない	O
+んで	O
+もう一度	O
+娘と	O
+相談	O
+して	O
+、	O
+日程	O
+を考え	O
+ます	O
+。	O
+
+
+いえ	O
+、	O
+車は	B-strong
+利用できない	O
+んです	O
+。	O
+
+
+はい	O
+。	O
+
+列車	B-strong
+利用	I-strong
+ですので	O
+。	O
+
+
+わかりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+11	B-strong
+月	I-strong
+18	I-strong
+,	I-strong
+19	I-strong
+の	O
+1	B-strong
+泊	I-strong
+二	I-strong
+日で	I-strong
+大人	B-strong
+2	I-strong
+名	I-strong
+子供	B-strong
+5	I-strong
+歳	I-strong
+食事	B-strong
+のみ	I-strong
+必要	O
+3	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+できれば	O
+バイキング方式	B-weak
+が好きな	O
+んですが	O
+。	O
+
+
+
+お風呂が広くて	B-weak
+孫	B-weak
+の	I-weak
+遊び場	I-weak
+があればもっと	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+温泉	B-weak
+かけ流しで	I-weak
+とてもいい	O
+けど	O
+ちょっと	O
+お値段が	O
+・・・。	O
+
+もう少し	O
+お安い	B-weak
+ところ	O
+があれば	O
+助かる	O
+のですが	O
+。	O
+
+
+
+
+
+
+
+
+クチコミ	B-strong
+が低い	I-weak
+の	O
+が気になります	O
+が	O
+、	O
+急な	O
+こと	O
+なので	O
+こちらで	O
+お願いします	O
+ね	O
+。	O
+
+
+
+
+はい	O
+。	O
+
+大丈夫です	O
+。	O
+
+
+わかりました	O
+。	O
+
+
+来月	B-strong
+終わり	I-strong
+に	O
+2	B-strong
+泊で	I-strong
+計画	O
+しています	O
+。	O
+
+
+
+一人旅で	B-strong
+お宿は	O
+窓からの眺め	B-strong
+がいい	I-strong
+ところで	O
+、	O
+雪景色	B-strong
+が見える	I-strong
+ところ	O
+を希望	O
+しています	O
+。	O
+
+平日で	B-strong
+、	O
+2	B-strong
+食付き	I-strong
+、	O
+お酒	B-strong
+は	O
+飲め	O
+ません	O
+。	O
+
+最寄りの	B-strong
+駅から近い	I-strong
+ところで	O
+街	B-strong
+を散策	I-strong
+できるところ	I-strong
+が	O
+いいと思います	O
+。	O
+
+予算	O
+は	O
+2	B-strong
+泊で	I-strong
+3	B-strong
+万円	I-strong
+まで	I-strong
+で	O
+大丈夫	O
+でしょうか	O
+?	O
+。	O
+
+MAX	O
+4	B-neutral
+万	I-neutral
+まで	I-neutral
+なら	O
+・・・	O
+なんとか	O
+。	O
+
+
+
+できれば	O
+その	O
+前の	B-weak
+週	I-weak
+がいい	O
+かと	O
+。	O
+
+
+
+その	O
+日程	O
+で	O
+お願いします	O
+。	O
+
+
+
+静かな	B-weak
+ところが	O
+いいので	O
+、	O
+小さいお子さん	B-weak
+が	O
+いない	O
+ほうがいい	O
+のですが	O
+。	O
+
+
+
+
+ありがとうございます	O
+。	O
+
+
+
+
+
+
+
+
+
+清潔な感じ	B-weak
+で	O
+よさそう	O
+ですね	O
+。	O
+
+
+
+
+
+
+
+
+
+
+景色	B-weak
+を重視した	I-weak
+ら	O
+、	O
+お値段が	B-weak
+上がる	I-weak
+とか	O
+、	O
+ひとりで	B-weak
+宿泊できる	I-weak
+宿	O
+がない	O
+ということ	O
+でしょうか	O
+?	O
+。	O
+
+最寄り	B-weak
+駅の近く	I-weak
+だと	O
+景色は	B-weak
+望め	O
+ない	O
+でしょうか	O
+?	O
+。	O
+
+様子が	O
+わからない	O
+ので	O
+すみません	O
+。	O
+
+質問	O
+の	O
+ポイント	O
+が	O
+違って	O
+いたようです	O
+。	O
+
+いろいろ	O
+お尋ね	O
+して	O
+すみませんでした	O
+。	O
+
+
+
+了解	O
+しました	O
+。	O
+
+ご案内	O
+していただいた	O
+お宿で	O
+検討して	O
+みます	O
+。	O
+
+お世話になりました	O
+。	O
+
+
+参考	O
+のため	O
+、	O
+お願いします	O
+。	O
+
+
+
+
+お風呂	O
+さえ	O
+よければ	O
+、	O
+洋室	B-weak
+の	O
+方がいいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+いま	O
+拝見	O
+しましたが	O
+、	O
+散策	B-weak
+には	I-weak
+不便な	I-weak
+ようなので	O
+また	O
+季節	O
+を	O
+改めて	O
+検討させていただきます	O
+。	O
+
+
+
+最初に	O
+ご案内	O
+いただいた	O
+お宿	O
+が	O
+希望	O
+に	O
+合って	O
+いるような	O
+ので	O
+、	O
+そちら	O
+を	O
+第一	O
+候補に	O
+して	O
+検討いたします	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+
+まだ	O
+宿泊日	O
+と	O
+人数	O
+は	O
+決まって	O
+おりません	O
+。	O
+
+
+
+行くと	O
+したら	O
+2	O
+人	O
+になると思います	O
+。	O
+
+
+
+はい	O
+。	O
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+電車で	O
+行った	O
+場合	O
+に	O
+駅から近く	B-weak
+お	B-weak
+部屋に露天風呂が付いて	I-weak
+いたら	O
+最高です	O
+。	O
+
+予算	O
+の	O
+目	O
+安	O
+は	O
+1	O
+人	O
+2	B-weak
+5000	I-weak
+ぐらいで	I-weak
+宿泊	O
+できたら	O
+良い	O
+なと思います	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+素敵な	O
+お宿	O
+ありがとうございます	O
+。	O
+
+櫻井	B-weak
+は	O
+バス	B-weak
+ステーション	I-weak
+から近く	I-weak
+露天風呂もあり	B-weak
+良さそう	O
+です	O
+。	O
+
+2	O
+番	O
+めの	O
+ときの	B-weak
+に	I-weak
+わ	I-weak
+の方が	O
+貸切風呂	B-weak
+と	O
+露天風呂が	B-weak
+充実して	O
+そうなので	O
+こちらの	O
+方が良い	O
+ように思います	O
+。	O
+
+
+
+
+ありがとうございます	O
+。	O
+
+湯畑	B-weak
+までの送迎	I-weak
+があれば	O
+便利ですね	O
+。	O
+
+買い物	O
+を楽しみたい	O
+です	O
+。	O
+
+
+
+
+季	O
+の	O
+庭	O
+も	O
+検討	O
+したいです	O
+が	O
+他の	O
+貸切風呂も	O
+おすすめ	O
+教えて	O
+ください	O
+。	O
+
+いろいろ	O
+楽しめ	O
+そうですね	O
+。	O
+
+ありがとうございます	O
+。	O
+
+11	B-strong
+月	I-strong
+23	I-strong
+日から	I-strong
+26	I-strong
+日	I-strong
+辺り	I-strong
+に	O
+検討	O
+中です	O
+。	O
+
+
+
+家族	O
+4	B-strong
+人	I-strong
+です	O
+。	O
+
+
+高校生	B-strong
+と	O
+中学生	B-strong
+です	O
+。	O
+
+
+
+はい	O
+。	O
+
+1	B-strong
+泊	I-strong
+の	O
+予定です	O
+。	O
+
+
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+お願いします	O
+。	O
+
+
+はい	O
+。	O
+
+お願いいたします	O
+。	O
+
+
+
+
+
+
+家族で	O
+ゆっくりしたかった	O
+ので	O
+、	O
+和室	B-weak
+と	O
+温泉が	B-weak
+魅力的です	O
+ね	O
+。	O
+
+食事は	O
+どんな	O
+感じです	O
+か	O
+?	O
+。	O
+
+
+
+
+
+部屋の	O
+タイプ	O
+が選べ	O
+れば	O
+、	O
+景色	B-weak
+のよい	I-weak
+上階	I-weak
+希望	O
+です	O
+。	O
+
+また	O
+、	O
+夕食は部屋食で	B-weak
+す	O
+か	O
+?	O
+。	O
+
+できれば	O
+部屋で	O
+家族で	O
+ゆっくり食事	B-weak
+を取り	I-weak
+たい	I-weak
+ので	O
+。	O
+
+
+
+
+はい	O
+。	O
+
+お願いします	O
+。	O
+
+
+
+
+
+
+お風呂も	B-weak
+食事も	B-weak
+とても	I-weak
+良いですね	I-weak
+。	O
+
+部屋で	B-weak
+夕食が	I-weak
+とれる	O
+と	O
+ゆっくりできて	O
+嬉しいです	O
+。	O
+
+なるべく	O
+部屋は	O
+▁	O
+景色の良い	B-weak
+部屋の	I-weak
+リクエスト	O
+をお願い	O
+できます	O
+でしょうか	O
+?	O
+。	O
+
+せっかく	O
+秋の	B-strong
+紅葉の時期	I-strong
+に行くので	O
+。	O
+
+
+
+はい	O
+。	O
+
+有難うございます	O
+。	O
+
+よろしくお願い致します	O
+。	O
+
+
+
+
+
+
+
+
+とても	O
+落ち着いた雰囲気で	B-weak
+ゆっくりでき	B-weak
+そうですね	I-weak
+。	O
+
+はい	B-strong
+。	O
+こちらの宿	O
+で	O
+お願いします	O
+。	O
+
+
+
+はい	O
+。	O
+わかりました	O
+。	O
+
+調べて	O
+頂き	O
+有難うございました	O
+。	O
+
+
+はっきり	O
+とした	O
+日にち	B-neutral
+は	I-neutral
+決まって	I-neutral
+いない	I-neutral
+のですが	O
+、	O
+来月	B-strong
+の	O
+土日	B-strong
+で	O
+5	B-strong
+人で	I-strong
+探して	O
+いるのですが	O
+。	O
+
+
+
+お願いします	O
+。	O
+
+
+大人	B-strong
+のみ	I-strong
+です	O
+。	O
+
+女子会	B-strong
+で	O
+使いたい	O
+ので	O
+おすすめ	O
+をお願い致します	O
+。	O
+
+
+
+朝食は	B-strong
+つけて	O
+いただきたい	O
+のですが	O
+、	O
+夕食は	B-strong
+外で食べ	O
+たいと思っています	O
+。	O
+
+
+
+特に	O
+決まって	B-strong
+いない	I-strong
+のですが	O
+、	O
+観光	O
+等に	O
+お金を	O
+使いたい	O
+ので	O
+なるべく	O
+お安い	B-weak
+ところで	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+お値段も	O
+お手	B-weak
+ごろ	I-weak
+で	O
+良いと思います	O
+。	O
+
+
+
+
+草津	B-strong
+ホテル	I-strong
+だと	O
+徒歩	B-weak
+1	I-weak
+分で	I-weak
+温泉街	I-weak
+に行ける	O
+ようなので	O
+、	O
+夕食を	B-weak
+と	I-weak
+るのに	I-weak
+便利	I-weak
+だと思うので	O
+草津	O
+ホテルに	O
+したいと思います	O
+。	O
+
+
+了解	O
+しました	O
+。	O
+
+
+
+年末	B-strong
+で	O
+、	O
+大人	B-strong
+2	I-strong
+名	I-strong
+子ども	B-strong
+1	I-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+
+2	B-strong
+泊で	I-strong
+お願いいたします	O
+。	O
+
+
+9	B-strong
+歳	I-strong
+です	O
+。	O
+
+
+
+
+では	O
+、	O
+12	B-strong
+/	I-strong
+29	I-strong
+、	I-strong
+30	I-strong
+で	O
+お願いいたします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+スキー場	B-weak
+に近い	I-weak
+宿	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+スキー場	B-weak
+から近い	I-weak
+場所	O
+な	O
+んですね	O
+。	O
+
+ホテル	O
+ヴィレッジ	O
+では	O
+、	O
+和室	B-weak
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+29	B-weak
+、	I-weak
+30	I-weak
+では	O
+もう少し	O
+安く	B-weak
+なります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+では	B-strong
+、	O
+こちらの	O
+3	O
+番目	O
+のプランで	O
+お願いいたします	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+
+具体的な	O
+日は	B-neutral
+決まって	I-neutral
+無い	I-neutral
+のですが	O
+、	O
+来年	B-strong
+1	I-strong
+月の	I-strong
+半ば	I-strong
+で	O
+考えて	O
+います	O
+。	O
+
+
+
+はい	O
+、	O
+日曜	B-strong
+の宿泊	O
+(1	B-strong
+泊	I-strong
+)	O
+で	O
+。	O
+
+男性	B-strong
+2	I-strong
+名	I-strong
+、	O
+女性	B-strong
+2	I-strong
+名で	I-strong
+2	B-strong
+部屋	I-strong
+希望	O
+です	O
+。	O
+
+
+
+朝夕	B-weak
+2	I-weak
+食付き	I-weak
+が良いです	O
+。	O
+
+夕食は	O
+量は	B-neutral
+少なめ	I-neutral
+で	O
+良いので	O
+、	O
+ちょっと	B-strong
+良い	I-strong
+物	I-strong
+が食べたい	O
+ですね	O
+。	O
+
+追加料金	B-neutral
+がかかって	O
+も	O
+構いません	O
+。	O
+
+
+
+車	O
+2	O
+台	O
+で	O
+行くので	O
+駐車場	B-strong
+がある	O
+宿で	O
+。	O
+
+あと	O
+喫煙	B-strong
+できる	O
+部屋	O
+希望	O
+です	O
+。	O
+
+夕食は部屋食で	B-neutral
+無くて	O
+も	O
+良いのですが	O
+、	O
+食事会場	O
+でも	O
+喫煙	B-weak
+できる	O
+方が良いです	O
+。	O
+
+
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+食事内容	O
+も	O
+色々	B-weak
+選べて	I-weak
+良いですね	I-weak
+。	O
+
+お部屋もお風呂も	B-weak
+雰囲気が良く	B-weak
+て	O
+綺麗	B-weak
+だと思いました	O
+。	O
+
+こちらを	B-weak
+第一	O
+候補に	O
+と思いますが	O
+、	O
+一応	O
+他にも	O
+おすすめの	O
+宿	O
+があれば	O
+教えて	O
+ください	O
+。	O
+
+
+お手数	O
+おかけ	O
+します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+望	B-strong
+雲	I-strong
+は	O
+落ち着いていて	B-weak
+良い	I-weak
+な	O
+、	O
+と思ったのですが	O
+全館禁煙	B-strong
+との事でした	O
+。	O
+
+最近	O
+、	O
+宿	O
+も	O
+禁煙	B-strong
+が増えて	O
+きている	O
+ので	O
+探す	O
+のに	O
+苦労	O
+します	O
+。	O
+
+大阪	B-weak
+屋	I-weak
+は	O
+素敵ですね	O
+!	O
+。	O
+
+部屋も	B-weak
+食事も	B-weak
+文句無し	O
+です	O
+。	O
+
+草津	O
+へ行った	O
+こと	O
+が無いので	O
+土地勘	O
+が無い	O
+のですが	O
+、	O
+観光地	B-weak
+にも近い	I-weak
+というのは	O
+ポイント高いです	O
+。	O
+
+こちらに	B-strong
+決め	O
+よう	O
+と思いました	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+自分で	O
+探す	O
+手間	O
+が	O
+省	O
+ける	O
+というのは	O
+便利ですね	O
+。	O
+
+
+
+宿泊日	B-neutral
+は	I-neutral
+決まって	I-neutral
+いませんが	I-neutral
+、	O
+今度	O
+家族で	B-strong
+温泉宿	B-strong
+に	O
+でも	O
+泊まろう	O
+と思っています	O
+。	O
+
+
+
+
+僕	B-strong
+と	I-strong
+妻と	I-strong
+5	B-strong
+歳の息子	I-strong
+の	O
+3	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+1	B-strong
+泊	I-strong
+2	B-strong
+食付き	I-strong
+が	O
+望	O
+ましい	O
+ですね	O
+。	O
+
+2	O
+食	O
+とも	O
+大	B-strong
+食堂で	I-strong
+バイキング	B-strong
+なんか	O
+が	O
+いいですね	O
+。	O
+
+
+
+景色は	B-neutral
+さほど	O
+拘り	O
+ませんが	O
+、	O
+子供向けの	B-weak
+対応	I-weak
+の	O
+いいところ	O
+や	O
+、	O
+各種	O
+アメニティー	B-weak
+が豊富	I-weak
+なところ	O
+、	O
+露天風呂	B-strong
+が欲しい	O
+の	O
+と	O
+、	O
+部屋は	O
+禁煙	B-strong
+で	O
+いいのですが	O
+、	O
+喫煙所	B-strong
+が	O
+館内	O
+にある	O
+ところ	O
+、	O
+そういう	O
+のがいいですね	O
+。	O
+
+
+
+
+
+
+
+
+ここ	B-weak
+良さそう	O
+ですね	O
+!	O
+。	O
+
+参考	O
+になります	O
+。	O
+
+
+
+
+
+
+
+こちらも	B-weak
+いいですね	O
+!	O
+。	O
+
+恐らく	O
+我々	O
+の	O
+望み	O
+は	O
+概ね	O
+か	O
+叶い	O
+そうですが	O
+、	O
+出来れば	O
+部屋食	B-weak
+ではなく	O
+大	B-weak
+食堂で	I-weak
+のバイキング	B-weak
+と	O
+、	O
+禁煙室	B-neutral
+を取って	O
+、	O
+別の	O
+喫煙所	B-strong
+がある	O
+というのが	O
+何となく	O
+望み	O
+ですかね	O
+...	O
+。	O
+
+
+
+いえ	O
+いえ	O
+、	O
+子供	O
+と一緒	O
+なんで	O
+、	O
+僕	O
+だけ	O
+タバコを吸	O
+う	O
+ので	O
+、	O
+その都度	O
+外	O
+に行くので	O
+構わない	O
+の	O
+ですよ	O
+、	O
+というか	O
+、	O
+そう	O
+したい	O
+の	O
+です	O
+...	O
+。	O
+
+
+
+
+
+
+
+
+そうそう	B-weak
+、	O
+ここ	O
+いいですね	O
+。	O
+
+喫煙所	B-weak
+が	I-weak
+同じ	I-weak
+フロアー	I-weak
+だと	O
+理想	O
+。	O
+
+何となく	O
+いつも	O
+エレベーターで	O
+喫煙所	O
+まで行く	O
+んで	O
+...	O
+。	O
+
+プールも	B-weak
+いいですね	O
+。	O
+
+子供も	B-neutral
+僕	O
+も	O
+水	O
+泳	O
+好きなので	O
+ある	O
+ならば	O
+うれしい	O
+施設	O
+です	O
+。	O
+
+
+
+はい	O
+、	O
+結構	O
+満足です	O
+。	O
+
+そこまで	O
+していただけて	O
+。	O
+
+仮	O
+に	O
+に行くと	O
+したら	O
+、	O
+今の	O
+3	O
+つ	O
+くらいで	O
+十分な	O
+選択肢	O
+でした	O
+。	O
+
+
+
+まだ	O
+、	O
+決まって	O
+いません	O
+。	O
+
+草津温泉	B-strong
+は	O
+いつか	O
+行きたいです	O
+。	O
+
+
+はい	O
+、	O
+お願いします	O
+。	O
+
+
+
+ふたり	B-strong
+です	O
+。	O
+
+
+朝食のみ	B-strong
+で	O
+。	O
+
+
+電車	O
+、	O
+バスで	O
+の	O
+アクセスが良い	B-strong
+のが	O
+希望	O
+です	O
+。	O
+
+
+2	B-strong
+万円	I-strong
+位で	I-strong
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+2	O
+件	O
+とも	O
+落ち着いた	B-weak
+いい感じ	O
+ですね	O
+。	O
+
+
+この	B-strong
+2	O
+件	O
+の	O
+候補	O
+で	O
+大丈夫です	O
+。	O
+
+ただ	O
+、	O
+どちら	O
+に	O
+するか	O
+と	O
+日程	O
+について	O
+決定	O
+するのは	O
+まだまだ	O
+先	O
+になりそうです	O
+。	O
+
+
+
+1	B-strong
+月	I-strong
+7	I-strong
+日から	I-strong
+1	B-strong
+泊	I-strong
+2	I-strong
+日で	I-strong
+お願いします	O
+。	O
+
+夫婦	B-strong
+2	B-strong
+名	I-strong
+です	O
+。	O
+
+
+
+2	B-strong
+食付き	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+温泉の	B-strong
+種類が多い	I-strong
+こと	O
+。	O
+
+貸切風呂は	B-neutral
+あっても	O
+なくても	O
+いいです	O
+。	O
+
+料理	B-strong
+の評判	I-strong
+が	I-strong
+いいところ	I-strong
+を希望します	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ぬ	B-strong
+志	I-strong
+勇	I-strong
+旅館の	I-strong
+上州牛	B-weak
+陶板	I-weak
+焼	I-weak
+つきの	O
+プラン	O
+が気になります	O
+が	O
+、	O
+こちらは	O
+予約	O
+できます	O
+か	O
+?	O
+。	O
+
+
+では	B-strong
+この宿	O
+で	O
+上州牛	B-strong
+陶板	I-strong
+焼	I-strong
+つき	O
+のプランで	O
+お願いします	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+
+12	B-strong
+月	I-strong
+15	I-strong
+日	I-strong
+、	O
+16	B-strong
+日	I-strong
+1	B-strong
+泊	I-strong
+2	I-strong
+日	I-strong
+です	O
+。	O
+
+
+
+男性	B-strong
+1	I-strong
+人	I-strong
+、	O
+女性	B-strong
+1	I-strong
+人	I-strong
+、	O
+未就学児	B-strong
+1	I-strong
+人	I-strong
+、	O
+計	B-strong
+3	I-strong
+名	I-strong
+です	O
+。	O
+
+
+ふとん	B-strong
+は	O
+不要	O
+です	O
+。	O
+
+子供用の	B-weak
+食事	I-weak
+メニュー	I-weak
+はあります	O
+か	O
+。	O
+
+
+
+
+朝夕	B-strong
+2	I-strong
+食	I-strong
+希望	O
+します	O
+。	O
+
+子供が	O
+大	B-strong
+豆	I-strong
+アレルギー	I-strong
+なのですが	O
+対応	O
+していただけます	O
+か	O
+。	O
+
+
+わかりました	O
+。	O
+
+
+よろしくお願いします	O
+。	O
+
+
+
+一人	O
+2	B-strong
+万	I-strong
+円以内	I-strong
+です	O
+。	O
+
+
+
+
+
+バリアフリー	B-weak
+に	O
+対応	O
+した	O
+宿	O
+はあります	O
+か	O
+。	O
+
+
+わかりました	O
+。	O
+
+
+了解	O
+です	O
+。	O
+
+
+紅葉の時期	B-strong
+で	O
+、	O
+お願いします	O
+。	O
+
+
+
+それで	O
+お願いします	O
+。	O
+
+
+
+
+2	B-strong
+人で	I-strong
+お願いします	O
+。	O
+
+
+その	O
+、	O
+まわり	O
+の	O
+環境	O
+にも	O
+や	O
+る	O
+んですけど	O
+、	O
+いろんな	O
+お店	O
+があると	O
+こ	O
+なら	O
+、	O
+夕飯	B-strong
+い	I-strong
+りません	I-strong
+。	O
+
+何も	O
+なさ	O
+げ	O
+なところ	O
+なら	O
+、	O
+夕飯	B-strong
+い	O
+ります	O
+。	O
+
+
+
+
+予算	O
+は	O
+?	O
+じゃ	O
+あ	O
+、	O
+7	B-strong
+500	I-strong
+円で	I-strong
+!	O
+お願いします	O
+。	O
+
+よく	O
+、	O
+分からない	O
+のですが	O
+、	O
+宿	O
+代	O
+ですよね	O
+。	O
+
+駐車場	B-strong
+ある	O
+とこ	O
+で	O
+、	O
+お願いします	O
+。	O
+
+車で行く	O
+か	O
+は	O
+、	O
+分からない	O
+ですが	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+う	O
+わ	O
+ー	O
+すごい	O
+です	O
+ー	O
+。	O
+
+ここまで	O
+、	O
+豪華	B-neutral
+じゃなくて	O
+もって	O
+も	O
+、	O
+思いました	O
+が	O
+。	O
+
+でも	O
+、	O
+素敵ですね	O
+ー	O
+。	O
+
+もっと	O
+貧	B-neutral
+相	I-neutral
+で	O
+、	O
+いい	O
+んで	O
+、	O
+お風呂の	B-weak
+数	I-weak
+が多い	I-weak
+とこ	O
+とか	O
+あります	O
+か	O
+?	O
+。	O
+
+この	O
+2	O
+つ	O
+なら	O
+、	O
+私は	O
+お	B-weak
+豆	I-weak
+のほうが	O
+、	O
+好み	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+ここ	O
+も	O
+素敵ですね	O
+ー	O
+。	O
+
+悩み	O
+ます	O
+。	O
+
+あとは	O
+、	O
+家族と	O
+相談	O
+で	O
+多分	O
+決め	O
+ると思います	O
+。	O
+普段	O
+なら	O
+。	O
+
+この	O
+お	O
+豆	O
+さんの	O
+とこ	O
+か	O
+、	O
+最後に	O
+紹介	O
+してくださった	O
+とこ	O
+か	O
+で	O
+、	O
+悩む	O
+と思います	O
+。	O
+
+
+
+そうな	O
+んですね	O
+ー	O
+。	O
+
+他にも	O
+いろいろ	O
+いって	O
+楽しめる	O
+なら	O
+、	O
+いいですね	O
+。	O
+
+はい	O
+、	O
+終了	O
+で	O
+、	O
+大丈夫です	O
+。	O
+
+
+2018	B-strong
+年	I-strong
+1	I-strong
+月	I-strong
+3	I-strong
+日から	I-strong
+5	I-strong
+日で	I-strong
+、	O
+人数	O
+は	O
+大人	B-strong
+2	I-strong
+名	I-strong
+(	O
+どちらも	O
+女性	O
+)	O
+です	O
+。	O
+
+
+
+
+はい	O
+。	O
+
+2	B-strong
+泊	I-strong
+3	I-strong
+日で	I-strong
+間違い	O
+ありません	O
+。	O
+
+食事	O
+ですが	O
+、	O
+どう	O
+いった	O
+プラン	O
+があります	O
+か	O
+?	O
+。	O
+
+夕食	O
+なら	O
+宴会場	B-weak
+で	O
+、	O
+とか	O
+チケット	B-weak
+で	O
+近隣の	B-weak
+食事処で	I-weak
+頂ける	O
+など	O
+あります	O
+か	O
+?	O
+。	O
+
+
+
+朝食のみ	B-strong
+で	O
+お願いします	O
+。	O
+
+夕食を	B-strong
+温泉街	O
+で	O
+とり	O
+たい	O
+のですが	O
+、	O
+宿	O
+に近い	O
+お店	O
+の営業時間	O
+を教えて	O
+いただけます	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+お店	O
+の件	O
+、	O
+わかりました	O
+。	O
+
+ありがとうございます	O
+。	O
+
+条件	O
+ですが	O
+、	O
+関東	O
+から	O
+電車で	O
+移動	O
+したい	O
+ので	O
+、	O
+駅に近い	B-strong
+ところ	O
+、	O
+もしくは	O
+送迎バス	B-strong
+をお願い	O
+できるところ	O
+が	O
+希望	O
+です	O
+。	O
+
+また	O
+、	O
+こちらは	O
+できれば	O
+で	O
+か	O
+まわ	O
+ないのですが	O
+、	O
+女性	O
+のみ	O
+なので	O
+、	O
+宴会	B-neutral
+のお客さん	I-neutral
+が少ない	I-neutral
+ところ	O
+だと	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+お宿	B-strong
+▁	I-strong
+ゆき	I-strong
+ず	I-strong
+み	I-strong
+▁	I-strong
+さんで	I-strong
+お願いします	O
+。	O
+
+
+
+大丈夫です	O
+。	O
+
+草津	O
+は初めて	O
+なので	O
+、	O
+候補	O
+が多い	O
+と	O
+迷って	O
+しまい	O
+そうなので	O
+この	O
+くらい	O
+が	O
+ちょうどいい	O
+です	O
+。	O
+
+
+
+
+
+わかりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+来年	B-strong
+2	I-strong
+月	I-strong
+1	I-strong
+日から	I-strong
+二泊三日	B-strong
+。	O
+
+人数	O
+は	O
+、	O
+大人	B-strong
+2	I-strong
+人と	I-strong
+子供	B-strong
+2	I-strong
+人	I-strong
+(3	O
+歳児	O
+と	O
+3	O
+カ月	O
+の	O
+乳児	O
+)	O
+です	O
+。	O
+
+
+
+
+
+食事は	B-strong
+用意	O
+お願いしたいです	O
+。	O
+
+布団は	B-strong
+不要	O
+です	O
+。	O
+
+当日	O
+、	O
+3	O
+歳の誕生日	B-strong
+なので	O
+食事の際	B-neutral
+に	I-neutral
+お祝い	I-neutral
+が出	O
+き	O
+れば	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+お誕生日	B-strong
+プラン	O
+の案内	O
+お願いします	O
+。	O
+
+車で行く	O
+ので	O
+比較的	O
+交通の便が	B-weak
+よい	I-weak
+所	O
+。	O
+
+料金は	O
+宿泊費	O
+合計	B-strong
+8	I-strong
+万	I-strong
+以内	I-strong
+が	O
+予算	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+木の葉	O
+の方は	O
+、	O
+幼児	O
+(	O
+食事	B-strong
+・	O
+布団	O
+不要	O
+)	O
+×	O
+2	O
+となって	O
+ますが	O
+、	O
+3	O
+歳の子	O
+の	O
+食事は	O
+で	O
+る	O
+のでしょうか	O
+?	O
+。	O
+
+もう	O
+一軒	O
+も	O
+見て	O
+みます	O
+。	O
+
+
+
+益	B-neutral
+成	I-neutral
+屋旅館	I-neutral
+は	O
+、	O
+素敵な	B-neutral
+お部屋で	I-neutral
+くつろげ	B-neutral
+そうですが	I-neutral
+、	O
+残念ですが	O
+予算	B-strong
+オーバー	I-strong
+なので	O
+。	O
+
+あと	O
+、	O
+加え	O
+たい	O
+条件で	O
+、	O
+小さな子供	O
+が	O
+いるので	O
+、	O
+出来れば	O
+消臭	B-weak
+室	I-weak
+ではなく	O
+禁煙室	B-weak
+がある	O
+宿	O
+がいいです	O
+。	O
+
+木の葉	O
+、	O
+了解	O
+です	O
+。	O
+
+予算	O
+内で	O
+禁煙室	B-strong
+がある	O
+宿の	O
+条件	O
+プラス	O
+して	O
+、	O
+案内	O
+して欲しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+予算	B-neutral
+は	I-neutral
+オーバー	I-neutral
+になってしまいます	O
+が	O
+、	O
+とても素敵な	B-weak
+お部屋で	I-weak
+特別感	B-weak
+を感じる	O
+事が出来	O
+そうですね	O
+!	O
+。	O
+
+気に入りました	O
+。	O
+
+子供も	B-neutral
+喜び	I-neutral
+そうです	I-neutral
+し	O
+、	O
+今回は	O
+奮発して	O
+、	O
+ホテル	B-strong
+スパ	I-strong
+ックス	I-strong
+草津	I-strong
+に	O
+宿泊したいと思います	O
+。	O
+
+
+
+
+了解	O
+しました	O
+。	O
+
+ありがとうございます	O
+!	O
+。	O
+
+
+2	B-strong
+月	I-strong
+9	I-strong
+日から	I-strong
+10	I-strong
+日の	I-strong
+一泊	B-strong
+、	O
+お	B-strong
+と	I-strong
+な	I-strong
+2	I-strong
+名	I-strong
+です	O
+。	O
+
+
+
+朝晩	B-strong
+お願いします	O
+。	O
+
+
+
+
+予算	O
+は	O
+二人で	O
+3	B-strong
+万	I-strong
+円以内	I-strong
+で	O
+、	O
+湯畑	B-strong
+から	I-strong
+あまり	I-strong
+遠く	I-strong
+ないところ	I-strong
+が良いです	O
+。	O
+
+貸切風呂	B-neutral
+があると嬉しいです	O
+が	O
+、	O
+優先	O
+順	O
+位	O
+は	O
+低い	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+紹介	O
+ありがとうございます	O
+。	O
+
+きん	B-neutral
+だい	I-neutral
+ペンション	I-neutral
+は	O
+以前利用した	O
+こと	O
+があるので	O
+、	O
+ぬ	B-strong
+志	I-strong
+勇	I-strong
+旅館	I-strong
+が	O
+良いと思いました	O
+。	O
+
+この時期に	O
+寒い	O
+草津	O
+で	O
+宿	O
+と	O
+湯畑	O
+を	O
+往復	O
+すると	O
+、	O
+タイミング	O
+によっては	O
+湯冷めし	B-weak
+たりする	O
+ので	O
+、	O
+立地	B-weak
+が非常に	I-weak
+良いと思います	I-weak
+。	O
+
+
+
+既に	O
+紹介	O
+いただいた	O
+旅館に	O
+不満	O
+がないので	O
+、	O
+追加	O
+の案内	O
+は結構	O
+です	O
+。	O
+
+
+
+
+2	B-strong
+月の	I-strong
+3	I-strong
+連休に	I-strong
+家族	B-strong
+4	B-strong
+人	I-strong
+(	O
+夫婦	B-strong
+2	I-strong
+人	I-strong
+、	O
+4	B-strong
+歳と	I-strong
+2	I-strong
+歳の子供	I-strong
+)	O
+で	O
+考えて	O
+います	O
+。	O
+
+で	O
+考えて	O
+います	O
+。	O
+
+
+
+
+
+はい	O
+、	O
+2	B-strong
+月	I-strong
+10	I-strong
+日から	I-strong
+2	B-strong
+泊で	I-strong
+お願いします	O
+。	O
+
+食事は	O
+朝夕	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+、	O
+朝夕共に	O
+バイキング形式	B-weak
+だと	O
+ありがたいです	O
+。	O
+
+食事と	B-strong
+布団は	B-strong
+4	O
+歳の子	O
+だけ	O
+つけて	O
+もらって	O
+、	O
+2	O
+歳の子	O
+は	O
+添い寝	B-strong
+で	O
+お願いします	O
+。	O
+
+
+
+
+予算	O
+は	O
+1	O
+人	O
+1	O
+泊	O
+1	B-strong
+5000	I-strong
+円くらい	I-strong
+まで	I-strong
+で	O
+お願いしたいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+魅力的な	B-strong
+お宿です	O
+が	O
+、	O
+予算	B-strong
+オーバー	I-strong
+ですね	O
+。	O
+
+3	O
+連休	O
+だから	O
+仕方がない	O
+ですよね	O
+。	O
+
+バイキング形式	B-neutral
+ではない	O
+宿で	O
+も	O
+大丈夫です	O
+、	O
+。	O
+
+
+
+
+
+
+
+
+
+こちらの宿	B-weak
+良いですね	O
+。	O
+
+みなさん	O
+の口コミ	B-neutral
+も	O
+良さそう	O
+だし	O
+、	O
+伝え	O
+忘れて	O
+おりましたが	O
+小さな	O
+子	O
+が	O
+いると	O
+ベッド	B-weak
+より	O
+和室に	B-weak
+布団を敷いて	O
+寝られる	O
+のが	O
+ありがたいです	O
+。	O
+
+
+
+
+
+
+
+
+まる	B-neutral
+ほ	I-neutral
+ん	I-neutral
+旅館は	I-neutral
+お風呂が	O
+とても	O
+素敵ですね	B-neutral
+。	O
+
+魅力的です	O
+。	O
+
+
+
+
+
+
+ログハウス	B-weak
+だと	O
+子供が	O
+喜び	O
+そうです	O
+。	O
+
+ご案内	B-strong
+頂いた	O
+中	O
+だった	O
+最後の	O
+ところ	O
+が一番	O
+いいですね	O
+!	O
+。	O
+
+
+
+
+ありがとうございました	O
+。	O
+
+
+
+12	B-strong
+月	I-strong
+23	I-strong
+日	I-strong
+2	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+夕食	B-strong
+を希望します	O
+。	O
+
+朝食は	B-neutral
+どちら	O
+でも	O
+。	O
+
+
+
+草津	O
+の	O
+温泉街	B-strong
+(	I-strong
+湯畑	I-strong
+?	I-strong
+)	I-strong
+に	I-strong
+徒歩圏内	I-strong
+が良いです	O
+。	O
+
+予算	O
+は	O
+上	O
+限	O
+は特に	O
+ありませんが	O
+二人で	O
+5	B-strong
+万	I-strong
+以内	I-strong
+くらい	I-strong
+だと	O
+ありがたいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+
+
+上記	O
+菊	O
+水	O
+荘	O
+の方は	O
+じゃらん	O
+トップ	O
+ページ	O
+より	O
+12	O
+月	O
+23	O
+日	O
+▁	O
+群馬県	O
+▁	O
+草津	O
+・	O
+尻	O
+焼	O
+・	O
+花	O
+敷	O
+▁	O
+エリアで	O
+検索して	O
+も	O
+宿泊プラン	O
+が	O
+出てこなかった	O
+のですが	O
+、	O
+なにか	O
+事情	O
+があります	O
+か	O
+?	O
+。	O
+
+
+すみません	O
+失	O
+認	O
+していただけ	O
+の	O
+ようです	O
+。	O
+
+ありました	O
+。	O
+
+
+少し離れた	O
+ところ	O
+だと	O
+湯畑	O
+へは	O
+車で	O
+いけ	O
+たりする	O
+のでしょうか	O
+?	O
+。	O
+
+23	O
+日の	O
+夜に	O
+花火	B-weak
+イベント	I-weak
+がある	O
+ようで	O
+、	O
+それ	O
+を拝見し	O
+たいと思っております	O
+。	O
+
+
+
+
+なるほど	O
+。	O
+
+参考	O
+になります	O
+。	O
+
+
+ありがとうございました	O
+。	O
+
+菊	B-neutral
+水	I-neutral
+館	I-neutral
+は	O
+安い	B-neutral
+ですが	O
+古い建物	B-weak
+でしょうか	O
+。	O
+
+
+
+
+そうです	O
+か	O
+。	O
+
+色々と	O
+ありがとうございました	O
+。	O
+
+この	O
+チャ	O
+ット	O
+サービスは	O
+草津温泉	O
+限定	O
+ですか	O
+?	O
+。	O
+
+
+そうでした	O
+か	O
+。	O
+
+今回は	B-strong
+「	O
+提示	O
+頂いた	O
+2	O
+つ	O
+で	O
+決め	O
+よう	O
+と思います	O
+。	O
+
+今後とも	O
+よろしくお願いします	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+姉妹	B-strong
+3	B-strong
+人	I-strong
+です	O
+。	O
+
+
+
+まだ	O
+き	B-neutral
+まって	I-neutral
+ません	I-neutral
+。	O
+
+12	B-strong
+月に	I-strong
+よ	O
+て	O
+い	O
+してます	O
+。	O
+
+
+
+はい	O
+。	O
+
+和風	B-strong
+的な	O
+窓からの	B-strong
+景観	I-strong
+が	I-strong
+いいところ	I-strong
+あります	O
+か	O
+。	O
+
+
+
+
+朝食	B-strong
+。	O
+夕食付	B-strong
+で	O
+お願いします	O
+。	O
+
+夕食は	O
+バイキング形式で	B-strong
+おねがい	O
+します	O
+。	O
+
+朝食もバイキングで	B-strong
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+3	B-strong
+月	I-strong
+12	I-strong
+日	I-strong
+1	B-strong
+泊	I-strong
+4	B-strong
+名	I-strong
+。	O
+
+
+草津温泉	B-strong
+。	O
+
+
+
+60	B-strong
+代の	I-strong
+女性	I-strong
+4	I-strong
+名	I-strong
+。	O
+
+
+
+
+朝夕	B-strong
+2	I-strong
+食	I-strong
+部屋食	B-strong
+希望	O
+。	O
+
+
+
+
+1	B-strong
+万	I-strong
+え	I-strong
+ん	I-strong
+前後	I-strong
+で	O
+湯畑	B-strong
+に近く	I-strong
+静かな	B-strong
+部屋	I-strong
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+大浴場は	B-weak
+あります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ホテル一井	O
+魅力的です	O
+が	O
+予算	O
+が少し	O
+オーバー	O
+です	O
+。	O
+
+税込	B-strong
+み	I-strong
+で	I-strong
+13	I-strong
+,000	I-strong
+円くらい	I-strong
+でない	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+
+いろいろ	O
+ありがとうございました	O
+。	O
+
+予算	O
+と	O
+口コミ評価	B-weak
+のバランス	O
+を考え	O
+させられ	O
+ます	O
+。	O
+
+もう一度	O
+▁	O
+皆	O
+と相談し	O
+て	O
+みます	O
+。	O
+
+一旦	O
+終わり	O
+に	O
+させていただきます	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+大人	B-strong
+2	I-strong
+名で	I-strong
+12	B-strong
+月	I-strong
+2	I-strong
+日	I-strong
+宿泊	O
+予定です	O
+。	O
+
+
+
+大人	B-strong
+2	I-strong
+名	I-strong
+12	B-strong
+月	I-strong
+2	I-strong
+日	I-strong
+1	B-strong
+泊	I-strong
+したいです	O
+。	O
+
+
+
+恋人との旅行で	B-strong
+す	O
+。	O
+
+
+夕飯	B-strong
+付で	O
+バイキングで	B-weak
+ない	O
+方が良いです	O
+。	O
+
+朝は	B-neutral
+どちら	I-neutral
+でも	I-neutral
+OK	O
+です	O
+。	O
+
+
+
+一人	O
+2000	B-strong
+0	I-strong
+円	I-strong
+まで	I-strong
+で	O
+、	O
+。	O
+
+貸切温泉	B-strong
+にも	O
+入りたい	O
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+難しい	O
+かもしれないです	O
+が	O
+、	O
+夕飯は	O
+洋食	B-strong
+が	O
+希望	O
+です	O
+。	O
+
+12	O
+月は	O
+雪	O
+が結構	O
+積	O
+ります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+
+はい	O
+、	O
+大丈夫です	O
+。	O
+
+ありがとう	O
+ございま	O
+いた	O
+。	O
+
+
+はい	O
+、	O
+承知	O
+しました	O
+。	O
+
+
+1	B-strong
+月	I-strong
+26	I-strong
+~	I-strong
+28	I-strong
+まで	I-strong
+二人	B-strong
+です	O
+。	O
+
+
+
+朝と夜	B-strong
+2	I-strong
+食付き	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+はい	O
+。	O
+
+
+特に	O
+ないですが	O
+、	O
+まあ	O
+、	O
+露天風呂	B-strong
+がある	O
+旅館で	O
+、	O
+和洋室	B-strong
+部屋	I-strong
+ぐらいです	O
+。	O
+
+
+
+
+あ	O
+、	O
+そして	O
+可能	O
+でしたら	O
+、	O
+27	O
+日に	O
+誕生日	B-weak
+お祝い	O
+できる	O
+イベント	O
+付き	O
+とか	O
+もあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本当にありがとうございます	O
+。	O
+
+確認	O
+しました	O
+。	O
+
+
+11	B-strong
+/	I-strong
+29	I-strong
+(	I-strong
+水	I-strong
+)	I-strong
+一泊	B-strong
+、	O
+大人	B-strong
+(	I-strong
+男女	I-strong
+)	I-strong
+2	I-strong
+名	I-strong
+です	O
+。	O
+
+
+
+2	B-strong
+食付き	I-strong
+で	O
+探して	O
+ます	O
+。	O
+
+ですが	O
+、	O
+草津	O
+到着が	O
+18	O
+時	O
+なので	O
+、	O
+19	B-strong
+時以降	I-strong
+に	I-strong
+食事が	I-strong
+希望	O
+です	O
+。	O
+
+
+
+
+有難うございます	O
+。	O
+
+立地は	O
+湯畑	B-weak
+に近い	I-weak
+方が	O
+便利です	O
+が	O
+、	O
+湯畑	B-strong
+まで	I-strong
+10	I-strong
+分以内	I-strong
+。	O
+
+予算	O
+は	O
+一人	O
+一万円	B-strong
+未満	I-strong
+で	O
+(	O
+安い	B-weak
+に	I-weak
+越	I-weak
+したこと	I-weak
+はないですが	I-weak
+)	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+いろいろ	O
+有難うございます	O
+。	O
+
+参考にさせていただきます	O
+。	O
+
+
+はじめ	O
+まして	O
+。	O
+
+11	B-strong
+月	I-strong
+20	I-strong
+日から	I-strong
+一泊	B-strong
+、	O
+大人	B-strong
+2	I-strong
+名	I-strong
+と	O
+1	O
+歳の子供	B-strong
+1	I-strong
+名	I-strong
+です	O
+。	O
+
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+が	O
+希望	O
+で	O
+、	O
+できれば	O
+子供の	B-neutral
+離乳食	I-neutral
+もあれば	O
+嬉しい	O
+のですが	O
+。	O
+。	O
+
+子供の	B-strong
+布団は	I-strong
+必要	O
+ありません	O
+。	O
+
+草津温泉	B-strong
+の湯	O
+が	O
+子供には	O
+強	O
+すぎる	O
+と思うので	O
+、	O
+温泉ではない	O
+お風呂	O
+がある	O
+所	O
+を探していました	O
+。	O
+
+部屋に	O
+ユニットバス	B-strong
+など	O
+がある	O
+場所	O
+を探して	O
+います	O
+。	O
+
+
+
+
+一人	O
+2	B-strong
+万円	I-strong
+前後	I-strong
+かな	O
+と考えています	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございました	O
+!	O
+。	O
+
+検討させていただきます	O
+!	O
+。	O
+
+助かりました	O
+!	O
+。	O
+
+
+2	B-strong
+/	I-strong
+2,3	I-strong
+2	B-strong
+泊	I-strong
+想定	O
+。	O
+
+大人	B-strong
+1	I-strong
+名	I-strong
+3	B-strong
+部屋	I-strong
+館	B-strong
+林	I-strong
+駅	I-strong
+近辺	I-strong
+。	O
+
+予算	O
+1	O
+名	O
+あたり	O
+6	B-strong
+,000	I-strong
+円	I-strong
+以下	I-strong
+。	O
+
+
+
+11	B-strong
+月	I-strong
+2	I-strong
+日	I-strong
+一泊で	B-strong
+大人二人	B-strong
+です	O
+。	O
+
+
+
+旦那と	B-strong
+二人	B-strong
+です	O
+。	O
+
+年	O
+は	O
+5	O
+2	O
+と	O
+5	O
+8	O
+なので	O
+。	O
+。	O
+
+金額	O
+はあまり	B-strong
+高く	I-strong
+なくて	I-strong
+ゆっくり出来る	B-strong
+所が	O
+いいのですが	O
+。	O
+
+
+
+夜	B-neutral
+だけ	I-neutral
+と言う	O
+の	O
+はない	O
+ですよね	O
+、	O
+、	O
+、	O
+、	O
+。	O
+
+
+
+特に	O
+ありませんが	O
+。	O
+。	O
+。	O
+
+湯質	B-strong
+が	I-strong
+良いところ	I-strong
+が良いです	O
+。	O
+
+
+湯畑	B-weak
+▁	I-weak
+草	I-weak
+庵	I-weak
+は	I-weak
+?	O
+。	O
+
+
+いえ	O
+いえ	O
+。	O
+
+
+
+
+
+
+
+
+
+金額	O
+は	O
+いくら	O
+ですか	O
+?	O
+。	O
+
+
+
+
+
+
+
+和室	B-weak
+ですか	O
+?	O
+。	O
+
+金額	O
+は	O
+?	O
+。	O
+
+
+
+
+
+
+
+はじめ	O
+まして	O
+。	O
+
+湯畑	B-strong
+の	I-strong
+近くの	I-strong
+宿は	O
+どこ	O
+ですか	O
+?	O
+。	O
+
+
+
+はい	O
+。	O
+
+
+日にち	O
+、	O
+人数	B-neutral
+は	I-neutral
+未	B-neutral
+定	I-neutral
+です	O
+。	O
+
+
+
+はい	O
+。	O
+
+
+食事が	B-weak
+おいしい	I-weak
+ほうが良い	O
+です	O
+。	O
+
+
+
+20	B-strong
+,000	I-strong
+円くらい	I-strong
+です	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+大丈夫です	O
+。	O
+
+ありがとうございました	O
+。	O
+
+検討して	O
+みます	O
+!	O
+。	O
+
+
+3	B-strong
+月下旬	I-strong
+の	O
+土日	B-strong
+、	O
+大人	B-strong
+2	I-strong
+名	I-strong
+、	O
+園	B-strong
+児	I-strong
+1	I-strong
+名	I-strong
+です	O
+。	O
+
+
+食事は	B-strong
+有り	O
+で	O
+、	O
+布団は	B-strong
+無しで	O
+お願いします	O
+。	O
+
+
+
+両方	B-strong
+宿で	O
+お願いします	O
+。	O
+
+
+
+
+予算	O
+は	O
+、	O
+2	B-strong
+万円以下	I-strong
+。	O
+
+子連れ	B-strong
+に優しい	I-strong
+サービス	O
+があるといい	O
+です	O
+。	O
+
+宿	O
+のイメージ	O
+は	O
+、	O
+落ち着いた	B-strong
+感じで	I-strong
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+途中	O
+、	O
+ネット	O
+が	O
+中	O
+断	O
+され	O
+てしまいました	O
+ので	O
+、	O
+お返事が遅くなり	O
+ました	O
+。	O
+
+すみません	O
+。	O
+
+口コミ	B-weak
+を読んで	O
+、	O
+らん	B-weak
+ぶ	I-weak
+る	I-weak
+が	O
+高評価	O
+な点	O
+から	O
+気になりました	O
+。	O
+
+送迎	O
+の	O
+お願い	O
+は	O
+、	O
+ネット	O
+上で	O
+予約	O
+するときに	O
+申し込み	O
+ができる	O
+のですか	O
+?	O
+それと	O
+も	O
+、	O
+予約	O
+後に	O
+別途	O
+宿に	O
+直接	O
+申し込み	O
+ですか	O
+?	O
+。	O
+
+
+
+分かりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+見て	B-strong
+みましたが	O
+、	O
+自分の	O
+好み	O
+とは違う	O
+ようです	O
+。	O
+
+
+
+そうですね	O
+、	O
+予算	O
+は少し	B-weak
+あげて	I-weak
+もいいので	O
+、	O
+和風	B-strong
+の宿	O
+はあります	O
+か	O
+?	O
+。	O
+
+送迎	B-strong
+があると	I-strong
+良いです	O
+。	O
+
+条件	O
+は	O
+先	O
+ほど	O
+と同じ	O
+で	O
+。	O
+
+
+
+
+
+
+食事が	B-weak
+おいしそう	I-weak
+なのと	O
+囲炉裏	B-neutral
+のある	O
+雰囲気	O
+が気になりました	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+よろしくお願いします	O
+。	O
+
+12	B-strong
+月	I-strong
+16	I-strong
+日	I-strong
+(	I-strong
+土	I-strong
+)	I-strong
+に	O
+大人	B-strong
+2	I-strong
+名	I-strong
+です	O
+。	O
+
+
+
+男性	B-strong
+2	I-strong
+名	I-strong
+なので	O
+、	O
+貸切風呂	B-neutral
+等は	O
+なくて	O
+構いません	O
+。	O
+
+新宿	O
+から	O
+、	O
+バス	O
+を	O
+利用したいと思っています	O
+。	O
+
+都市	O
+間	O
+バス	O
+よりも	O
+送迎	B-strong
+付き	I-strong
+の方が	O
+やすい	B-weak
+のかな	O
+と思っています	O
+。	O
+
+そう	O
+すると	O
+、	O
+リゾートホテル	O
+感が	O
+おお	O
+きく	O
+、	O
+温泉	B-strong
+に来た	O
+という感じ	O
+が	O
+薄い	O
+んですよね	O
+。	O
+
+バスターミナル	B-strong
+から	I-strong
+そんなに遠く	I-strong
+なく	I-strong
+、	O
+2	O
+人で	O
+できれば	O
+5	B-strong
+万円	I-strong
+かからない	I-strong
+の	O
+を	O
+最優先	O
+で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ありがとうございます	O
+。	O
+
+ちょっと	O
+席を	O
+外	O
+す	O
+ので	O
+、	O
+また	O
+ゆっくり	O
+見	O
+ます	O
+。	O
+
+食事は	O
+2	B-weak
+食	I-weak
+と	O
+もあった	O
+方が良いです	O
+。	O
+
+旅館	O
+や	O
+温泉に	O
+こ	O
+だ	O
+わる	O
+場合	O
+、	O
+東京から	O
+の	O
+送迎バス	O
+有り	O
+は	O
+もう	O
+除	O
+外	O
+した方が	O
+よろしい	O
+でしょうか	O
+?	O
+。	O
+
+
+
+
+12	B-strong
+/	I-strong
+20	I-strong
+.	I-strong
+21	I-strong
+で	O
+大人	B-strong
+2	I-strong
+人	I-strong
+1	O
+歳の	O
+こども	B-strong
+1	I-strong
+人	I-strong
+です	O
+。	O
+
+
+はい	B-strong
+!	O
+お願いします	O
+。	O
+
+
+綺麗な	B-strong
+ところで	O
+、	O
+こども	B-strong
+が	I-strong
+泊まって	I-strong
+も大丈夫な	I-strong
+感じが	O
+希望	O
+です	O
+。	O
+
+
+お願いします	O
+。	O
+
+
+
+
+
+子連れには	B-weak
+良さそう	I-weak
+ですね	O
+!	O
+。	O
+
+もう少し	O
+こじんまりした	B-weak
+ところ	O
+はあります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+クチコミ	B-weak
+がすごく	O
+いいですね	O
+!	O
+。	O
+
+気に入りました	O
+!	O
+。	O
+
+こども	B-strong
+が	I-strong
+行っても	I-strong
+平気	I-strong
+なのか	O
+気になります	O
+。	O
+
+
+
+
+そうです	O
+か	O
+!	O
+。	O
+
+貸切風呂	O
+付きで	O
+、	O
+個室	O
+希望	O
+だと	O
+いくら	O
+になります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+ロー	B-weak
+ベッドで	I-weak
+いいですね	O
+。	O
+
+食事場所	O
+は	O
+選べ	O
+ません	O
+と書いて	O
+あるので	O
+、	O
+その日	O
+次第	O
+ということ	O
+でしょうか	O
+?	O
+。	O
+
+
+わかりました	O
+。	O
+
+検討し	O
+ます	O
+。	O
+
+
+
+では	O
+、	O
+草津	B-strong
+で一番	B-strong
+人気の	I-strong
+宿が	O
+知り	O
+たいです	O
+。	O
+
+草津	O
+に	O
+行ったこと	O
+がないので	O
+、	O
+代表	B-strong
+的な	I-strong
+お宿	O
+に泊まりたい	O
+なと	O
+。	O
+
+
+
+
+
+ありがとうございます	O
+(^^)	O
+。	O
+
+これら	O
+で	O
+検討し	O
+ますね	O
+!	O
+。	O
+
+
+では	O
+、	O
+1	B-strong
+月中旬	I-strong
+の	O
+月曜日	B-strong
+火	I-strong
+曜日	I-strong
+で	O
+夫婦	B-strong
+2	B-strong
+名	I-strong
+(	O
+中	O
+年	O
+)	O
+で	O
+おねがい	O
+できます	O
+か	O
+。	O
+
+
+
+はい	B-strong
+、	O
+宿の	O
+ご飯を食べ	O
+たいです	O
+。	O
+
+
+二人で	O
+3	B-strong
+万	I-strong
+以内	I-strong
+で	O
+有ります	O
+でしょうか	O
+。	O
+
+
+湯畑	B-neutral
+そば	I-neutral
+で	O
+有れば	O
+嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+日	B-strong
+新館	I-strong
+が	O
+良さそう	O
+ですね	O
+。	O
+
+
+
+
+
+
+
+
+
+温泉	B-strong
+自体	O
+が好きなので	O
+、	O
+源泉	B-strong
+でのんびり	B-strong
+入浴	I-strong
+出来	I-strong
+そうな	I-strong
+宿	O
+を紹介して	O
+下さい	O
+ます	O
+か	O
+。	O
+
+12	B-strong
+月	I-strong
+31	I-strong
+日	I-strong
+大人	B-strong
+2	I-strong
+人	I-strong
+▁	O
+中学生	B-strong
+1	I-strong
+人	I-strong
+です	I-strong
+。	O
+
+
+
+朝夕	B-strong
+2	I-strong
+食付	I-strong
+で	O
+お願いします	O
+。	O
+
+夕食は	O
+洋食	B-strong
+がいいです	O
+。	O
+
+バイキング形式で	O
+洋食	B-strong
+が	O
+含まれてい	O
+れば	O
+問題ありません	O
+。	O
+
+朝食は和食	B-strong
+がいいです	O
+。	O
+
+典	O
+型	O
+的な	O
+純	O
+和食	O
+のようなもの	O
+があると嬉しいです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+ホテル	O
+ヴィレッジ	O
+は	O
+よさそう	O
+ですね	O
+。	O
+
+食事	O
+面	O
+は	O
+、	O
+バイキング	B-weak
+であれば	O
+和食	B-weak
+も	I-weak
+洋食	I-weak
+も楽しめる	I-weak
+でしょう	O
+し	O
+。	O
+
+施設も	O
+広くて	B-weak
+屋内	O
+でも	O
+屋外	O
+でも	O
+ゆったりと	B-weak
+過	O
+ご	O
+さ	O
+そうな	O
+気がします	O
+。	O
+
+
+食事	O
+面で	O
+1	O
+つ	O
+教えて	O
+ください	O
+。	O
+
+年末年始	B-strong
+なので	O
+、	O
+夕食に	B-weak
+蕎麦	I-weak
+があったり	O
+、	O
+朝食に	B-weak
+おせち	I-weak
+料理	I-weak
+にあるような	O
+もの	O
+(	O
+数	O
+の	O
+子	O
+とか	O
+伊	O
+達	O
+巻	O
+など	O
+)	O
+や	O
+お雑煮	B-weak
+など	O
+があると	O
+更に	O
+良いのですが	O
+、	O
+いかがですか	O
+?	O
+。	O
+
+
+
+わかりました	O
+。	O
+
+年末年始	O
+ですし	O
+どこも	O
+混んで	O
+います	O
+し	O
+ね	O
+。	O
+
+何も	O
+しっかりした	O
+正月	O
+料理	O
+ではなく	O
+、	O
+ちょっとだけ	O
+正月	B-neutral
+気分を味わえ	I-neutral
+ればいい	O
+程度です	O
+ので	O
+、	O
+基本的には	O
+問題ありません	O
+。	O
+
+宿に	O
+確認して	O
+みます	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+え	O
+ー	O
+、	O
+11	B-strong
+月の	I-strong
+3	B-strong
+~	I-strong
+5	I-strong
+日の	I-strong
+連休で	O
+草津	B-strong
+に行こう	O
+と思っています	O
+が	O
+、	O
+3	O
+、	O
+4	B-strong
+日の	I-strong
+どちらか	O
+で宿泊	O
+しよう	O
+と思っています	O
+。	O
+
+
+はい	O
+、	O
+どちらか	O
+一泊	B-strong
+したいです	O
+。	O
+
+
+
+大人	B-strong
+四人	I-strong
+(	O
+主人	O
+、	O
+主人の	O
+母と	O
+姉	O
+、	O
+私	O
+)	O
+です	O
+。	O
+
+
+温泉旅館	B-strong
+か	O
+民宿	B-strong
+がいいです	O
+。	O
+
+
+朝食のみ	B-strong
+。	O
+
+
+
+
+
+
+
+すみません	O
+、	O
+私	O
+以外	O
+が	O
+ヘ	O
+ビー	O
+ス	O
+モー	O
+カー	O
+なので	O
+、	O
+喫煙	B-strong
+可	I-strong
+の部屋	I-strong
+が良い	O
+んですが	O
+、	O
+あります	O
+か	O
+?	O
+。	O
+
+
+
+
+
+
+
+
+
+喫煙	O
+可	O
+が無い	O
+んですね	O
+。	O
+
+了解	O
+です	O
+。	O
+
+ペンション	B-neutral
+も	O
+良かったんですが	O
+、	O
+湯畑	B-weak
+まで	I-weak
+近い	I-weak
+松	O
+屋旅館	O
+の方が	O
+好み	O
+に近い	O
+です	O
+。	O
+
+
+
+
+
+
+お酒も	B-weak
+良いですね	O
+♪	O
+。	O
+
+でも	O
+、	O
+私	O
+以外は	O
+お酒を	B-weak
+飲まない	O
+ので	O
+、	O
+今回は	O
+ちょっと	O
+辞	O
+めて	O
+おきます	O
+。	O
+
+松	B-strong
+屋旅館	I-strong
+さんは	O
+タバコ	B-weak
+が	I-weak
+吸え	I-weak
+る	I-weak
+(	O
+かもしれない	O
+)	O
+し	O
+、	O
+湯畑	B-weak
+が近いので	I-weak
+今の	O
+選択肢	O
+の中では	O
+いいと思います	O
+。	O
+
+12	B-strong
+月	I-strong
+9	I-strong
+日	I-strong
+土曜日	I-strong
+1	B-strong
+泊	I-strong
+2	B-strong
+名で	I-strong
+お願いします	O
+。	O
+
+
+部屋は	O
+禁煙室	B-strong
+。	O
+
+電車で	O
+行くので	O
+最寄りの	O
+駅まで送迎	B-strong
+してくれる	O
+所	O
+。	O
+
+お風呂の	B-weak
+種類は	I-weak
+多い	I-weak
+方が良いです	O
+。	O
+
+貸し切り風呂は	B-strong
+利用しません	O
+。	O
+
+予算	O
+は	O
+朝夕	B-strong
+食事	I-strong
+付きで	O
+1	O
+人	O
+2	B-strong
+万	I-strong
+円以内	I-strong
+で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+はい	O
+、	O
+大丈夫です	O
+。	O
+
+
+
+
+
+
+
+お風呂も	O
+露天	O
+、	O
+内風呂	O
+と	O
+沢山	B-weak
+あり	O
+、	O
+料理も	O
+バイキング方式	B-weak
+で	O
+写真	O
+美味しそう	O
+。	O
+
+湯	B-weak
+も	I-weak
+み	I-weak
+体験	I-weak
+も	O
+予約制	O
+で	O
+出来	O
+、	O
+また	O
+館内も	B-weak
+広く	I-weak
+いろんな	B-weak
+遊び	I-weak
+が楽しめる	O
+みたいですね	O
+。	O
+
+とても素敵な	O
+ホテル	O
+と思いましたが	O
+、	O
+館内が	B-weak
+広すぎて	I-weak
+移動	O
+で	O
+迷子にな	O
+り	O
+疲れ	O
+そう	O
+。	O
+
+ちょっと	O
+広すぎ	B-weak
+ますね	O
+。	O
+
+
+
+草津温泉	O
+は初めて	O
+なので	O
+、	O
+湯	B-weak
+も	I-weak
+み	I-weak
+体験	I-weak
+また	O
+は	O
+見学	B-weak
+が	O
+出来たら	O
+いいな	O
+!	O
+なんて	O
+思って	O
+ます	O
+。	O
+
+草津	O
+は	O
+リゾートホテル	O
+が多い	O
+のでしょうか	O
+?	O
+。	O
+
+出来たら	O
+リゾートホテル	B-weak
+以外で	O
+お願いします	O
+。	O
+
+
+
+
+
+
+
+永	B-weak
+田	I-weak
+屋さん	I-weak
+いいですね	O
+。	O
+
+松	B-neutral
+花	I-neutral
+堂	I-neutral
+弁当	I-neutral
+に	O
+目が	O
+と	O
+まりました	O
+。	O
+
+ゆっくりのんびり	B-weak
+過ごせ	O
+そうですね	O
+。	O
+
+きん	B-weak
+だい	I-weak
+ペンション	I-weak
+は	O
+設備や	B-weak
+料理が	B-weak
+良いですね	I-weak
+。	O
+
+迷い	O
+ますが	O
+、	O
+やはり	O
+松	B-weak
+花	I-weak
+堂	I-weak
+弁当	I-weak
+が気になる	O
+ので	O
+、	O
+永	B-strong
+田	I-strong
+屋さん	I-strong
+をお願いします	O
+。	O
+
+それから	O
+永	O
+田	O
+屋さん	O
+は	O
+アクセスは	O
+長野	O
+駅から	O
+と	O
+紹介	O
+されてました	O
+が	O
+、	O
+北陸新幹線	O
+で	O
+行っても	O
+、	O
+草津	O
+の	O
+バスターミナル	O
+に	O
+到着	O
+したら	O
+迎えに来て	B-strong
+もらえる	O
+んですよね	O
+。	O
+
+長野	O
+駅は	O
+JR	O
+バス	O
+と	O
+載って	O
+ましたが	O
+、	O
+北陸新幹線	O
+駅も	O
+バスターミナル	O
+行	O
+の	O
+JR	O
+バスが	O
+運行	O
+してる	O
+のでしょうか	O
+。	O
+
+
+忘れて	O
+ましたが	O
+、	O
+食事	O
+ですが	O
+、	O
+アレルギー	O
+ではないのですが	O
+、	O
+一緒に	O
+行く	O
+人が	O
+肉	B-strong
+が苦手	O
+。	O
+
+直接	O
+宿の方	O
+へ	O
+電話して	O
+「	O
+肉	O
+無しで	O
+」	O
+と	O
+お願いした	O
+方が良いです	O
+か	O
+。	O
+
+それと	O
+も	O
+、	O
+そちら	O
+の方で	O
+連絡	O
+して	O
+貰える	O
+のでしょうか	O
+。	O
+
+
+
+はい	O
+、	O
+分かりました	O
+。	O
+
+ありがとうございます	O
+。	O
+
+今	O
+確認	O
+で	O
+宿	O
+HP	O
+どちらも	O
+見て	O
+きた	O
+のですが	O
+、	O
+どちらも	O
+階段	B-weak
+移動	I-weak
+ですね	O
+。	O
+
+膝	O
+が悪い	O
+ので	O
+階段	B-strong
+の	I-strong
+上り下り	I-strong
+できません	O
+。	O
+
+すみません	O
+。	O
+
+
+
+フォト	O
+ギャラリー	O
+見	O
+ましたが	O
+部屋は	O
+一階	O
+と言う	O
+情報	O
+はなかった	O
+ように思います	O
+。	O
+
+部屋は	O
+一階に	B-strong
+もある	O
+んですね	O
+。	O
+
+安心しました	O
+。	O
+
+
+はい	O
+、	O
+分かりました	O
+。	O
+
+こちらの方	O
+で	O
+、	O
+食事	O
+の件	O
+と一緒に	O
+訊	O
+いて	O
+みます	O
+。	O
+
+ありがとうございました	O
+。	O
+
+
+1	B-strong
+泊	I-strong
+2	I-strong
+日	I-strong
+1	B-strong
+人	I-strong
+予算	O
+1	B-strong
+万	I-strong
+ぐらい	I-strong
+。	O
+
+
+交通の便が	B-strong
+いい	I-strong
+(	O
+バスで	O
+も	O
+電車で	O
+も	O
+)	O
+そこから	O
+宿	B-strong
+が近い	I-strong
+・	O
+。	O
+
+お風呂は	O
+貸切	B-neutral
+じゃなくて	O
+もよい	O
+(	O
+露天風呂	B-neutral
+があれば	O
+うれしい	O
+)	O
+。	O
+
+宿の	O
+ご飯は	O
+朝	B-neutral
+のみ	I-neutral
+と	O
+選択	O
+できれば	O
+うれしい	O
+。	O
+
+交通	O
+を含め	O
+1	O
+万	O
+5	O
+千	O
+円以内	O
+なら	O
+うれしい	O
+。	O
+
+
+都内	O
+です	O
+。	O
+
+
+
+
+
+セット	O
+料金	O
+とか	O
+あれば	O
+いいのですが	O
+・・	O
+。	O
+
+
+
+
+
+
+うーん	O
+▁	O
+確認	O
+しましたが	O
+足が	B-weak
+で	I-weak
+ますね	I-weak
+。	O
+
+
+
+
+候補に	O
+入れて	O
+もいい	O
+かもしれない	O
+ですね	O
+。	O
+
+
+
+
+
+
+日程	O
+にも	O
+より	O
+け	O
+り	O
+ですかね	O
+。	O
+
+
+
+一人旅	O
+だと	O
+厳しい	O
+もの	O
+があります	O
+ね	O
+▁	O
+二人	O
+以上	O
+だと	O
+楽しめ	O
+そうですね	O
+。	O
+
+
+
+
+
+宿は	O
+情緒	B-weak
+があって	O
+いい感じ	O
+ですね	O
+。	O
+
+
+なるほど	O
+・・	O
+確かに	O
+そんな	O
+感じが	O
+。	O
+
+このお宿	O
+に行く	O
+価値	O
+もあり	O
+そうですね	O
+。	O
+
+
+
+そちら	O
+のほうが	O
+交通の便が	O
+よい	O
+のでしょうか	O
+?	O
+。	O
+
+
+
+
+ち	O
+ら	O
+っと	O
+みましたが	O
+、	O
+往復	O
+だと	O
+5000	O
+円	O
+とか	O
+かれて	O
+いましたが	O
+・・・	O
+▁	O
+あ	O
+ち	O
+ら	O
+のお宿	O
+が	O
+8000	B-strong
+円	I-strong
+以下	I-strong
+(	I-strong
+税込	O
+)	O
+なら	O
+なんだか	O
+んだ	O
+で	O
+1	O
+万	B-strong
+5000	I-strong
+円で	I-strong
+いけ	O
+そうな	O
+感じ	O
+ですかね	O
+?	O
+。	O
+
+
+候補に	O
+入れ	O
+よう	O
+と思います	O
+。	O
+
+
+そうですね	O
+・・	O
+予算	B-strong
+内で	I-strong
+いける	O
+ところ	O
+なら	O
+し	O
+り	O
+たい	O
+ですね	O
+。	O
+
+後は	O
+お宿で	O
+お勧め	O
+なところ	O
+など	O
+。	O
+
+
+
+予算	O
+は	O
+1	O
+万	O
+以下	O
+なら	O
+と考え	O
+ましたが	O
+、	O
+交通	O
+費	O
+からすると	O
+どう	O
+考えて	O
+も	O
+なさそう	O
+な	O
+気がします	O
+が	O
+・・・	O
+ある	O
+のでしょうか	O
+?	O
+。	O
+
+
+
+
+いえ	O
+、	O
+交通	O
+費	O
+込み	O
+での	O
+予算	O
+1	B-strong
+万	I-strong
+です	O
+(	O
+日帰り	O
+とも	O
+考えた	O
+のですが	O
+・・	O
+時間的に	O
+厳しい	O
+)	O
+。	O
+
+
+ある	O
+のでしょうか	O
+?	O
+。	O
+
+
+
+
+
+
+花	B-weak
+栞▁	I-weak
+よさそう	O
+ですね	O
+。	O
+
+ただ	O
+共同浴場	B-neutral
+が	O
+・・	O
+どのような	O
+もの	O
+なのか	O
+がき	O
+になり	O
+なります	O
+。	O
+
+これ	O
+って	O
+、	O
+1	O
+人	O
+一室	O
+の	O
+値段	O
+ですか	O
+?	O
+。	O
+
+
+なら	O
+いいかも	O
+ですね	O
+。	O
+
+
+はい	O
+。	O
+
+情報	O
+ありがとうございます	O
+。	O
+
+
+草津温泉	O
+は	O
+行ったこと	O
+がなく	O
+、	O
+夫婦二人	B-strong
+の旅行	O
+です	O
+。	O
+
+2	B-strong
+泊	I-strong
+3	I-strong
+日で	I-strong
+宿は	O
+できるだけ	O
+バリアフリー	B-weak
+の	O
+ところを	O
+利用したいと思います	O
+。	O
+
+脚	O
+の	O
+ことを考えると	O
+洋室	B-weak
+が	O
+いいのですが	O
+、	O
+温泉地	O
+の宿	O
+で	O
+は無理	O
+かもしれませんね	O
+。	O
+
+
+
+
+具体的に	O
+決めて	B-neutral
+いませんが	I-neutral
+、	O
+暑く	B-strong
+もなく	I-strong
+寒く	I-strong
+もなく	I-strong
+、	O
+となると	O
+10	B-weak
+月頃	I-weak
+が	O
+いいかと思います	O
+。	O
+
+
+
+そうです	O
+ねぇ	O
+、	O
+最近の	O
+旅行	O
+は	O
+ホテル	O
+ばかりです	O
+ので	O
+料金	O
+形態	O
+がよく	O
+わかりませんが	O
+、	O
+1	O
+泊	O
+2	B-strong
+食	I-strong
+で	O
+1	B-strong
+万	I-strong
+5	I-strong
+千円	I-strong
+から	I-strong
+2	I-strong
+万円	I-strong
+くらい	I-strong
+であれば	O
+いいですね	O
+。	O
+
+年末年始	B-strong
+で	O
+空いて	O
+ます	O
+か	O
+?	O
+。	O
+
+家族	B-strong
+4	B-strong
+人	I-strong
+。	O
+
+まぁ	O
+、	O
+子供も	B-strong
+高校生	I-strong
+以上	I-strong
+なので	O
+、	O
+大人	B-strong
+4	I-strong
+人で	I-strong
+一部屋	B-strong
+ですかね	O
+。	O
+
+
+
+まぁ	O
+、	O
+年越し	B-weak
+の	O
+1	B-strong
+泊	I-strong
+が有れば	O
+良いですが	O
+、	O
+年末の	B-strong
+30	I-strong
+日から	I-strong
+1	I-strong
+月	I-strong
+3	I-strong
+日	I-strong
+までの間	I-strong
+なら	O
+どの	O
+日で	O
+も大丈夫	O
+ですが	O
+。	O
+
+後	O
+、	O
+露天風呂	B-strong
+が好きなので	O
+、	O
+部屋に	O
+なくて	O
+良いので	O
+、	O
+広めの	O
+景色の良い	B-strong
+露天風呂	I-strong
+が有る	O
+ホテルが	B-strong
+良いのですが	O
+。	O
+
+それから	O
+、	O
+すみません	O
+が	O
+、	O
+晩御飯	O
+なので	O
+、	O
+30	O
+分ぐらい	O
+離れ	O
+ます	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+只今	O
+、	O
+戻り	O
+ました	O
+。	O
+
+
+大	O
+東館	O
+と	O
+スカイ	O
+ランド	O
+ホテルです	O
+か	O
+?	O
+。	O
+
+
+
+
+露天風呂の	B-weak
+眺めは	I-weak
+スカイ	B-weak
+ランド	I-weak
+ホテルの方が	I-weak
+良さそう	O
+ですが	O
+、	O
+宿の雰囲気	B-weak
+と	O
+食事は	B-weak
+大	B-weak
+東館	I-weak
+の方が	O
+良さそう	O
+ですね	O
+。	O
+
+大	O
+東館	O
+の露天風呂	B-strong
+の眺め	I-strong
+はどう	O
+なんでしょうか	O
+?	O
+。	O
+
+
+
+
+やっぱり	O
+、	O
+露天風呂で	B-strong
+選ぶ	O
+なら	O
+、	O
+スカイ	O
+ランド	O
+ホテルに	O
+分	O
+があり	O
+そうですが	O
+、	O
+大	O
+東館	O
+の方が	O
+料理が	B-weak
+美味しそう	I-weak
+です	O
+。	O
+
+特に	O
+、	O
+朝食の	O
+絶品	B-weak
+卵焼き	I-weak
+に	O
+引かれ	O
+ますが	O
+。	O
+
+スカイ	O
+ランド	O
+ホテルには	O
+卓球台	B-neutral
+も	O
+有る	O
+し	O
+ね	O
+。	O
+
+迷	O
+っちゃ	O
+います	O
+ね	O
+。	O
+
+
+
+
+
+ここは	B-weak
+良いですね	O
+。	O
+
+バイキング料理	B-weak
+は	O
+、	O
+子供が	O
+喜び	O
+ます	O
+。	O
+
+私は	O
+朝食のフレンチトースト	B-weak
+に	O
+引かれ	O
+ますが	O
+。	O
+
+毎晩	O
+、	O
+イベント	B-neutral
+ショー	I-neutral
+を	O
+やって	O
+て	O
+楽しめます	O
+ね	O
+。	O
+
+ここに決めました	B-strong
+。	O
+
+
+
+
+1	B-strong
+月	I-strong
+13	I-strong
+日	I-strong
+。	O
+2	B-strong
+人	I-strong
+です	O
+。	O
+
+
+一人	O
+2	B-strong
+万	I-strong
+5	I-strong
+千円	I-strong
+で	O
+お願いしたいと思います	O
+。	O
+
+
+食事と	B-strong
+露天風呂には	B-strong
+拘り	I-strong
+があります	I-strong
+。	O
+
+
+
+美味しい	B-strong
+和食	I-strong
+と	O
+ロケーション	B-strong
+の良い	I-strong
+露天風呂	I-strong
+。	O
+
+そして	O
+落ち着いた	O
+和室	B-strong
+があれば	O
+ホテル	B-neutral
+でも	O
+旅館で	B-neutral
+も良いです	O
+。	O
+
+
+
+
+
+
+
+
+
+
+
+食事	B-weak
+、	O
+温泉など	B-weak
+から	O
+総合的に	O
+判断	O
+すると	O
+草津	B-strong
+ハイランド	I-strong
+ホテル	I-strong
+が気に入りました	O
+。	O
+
+
+
+ご提案	O
+頂いた	O
+ホテル	O
+が気に入りました	O
+ので	O
+結構	O
+です	O
+。	O
+
+
+
+
+ありがとうございました	O
+。	O
+
+
+1	B-strong
+月	I-strong
+7	I-strong
+,	I-strong
+8	I-strong
+日の	I-strong
+一泊二日	B-strong
+、	O
+大人	B-strong
+2	I-strong
+人	I-strong
+、	O
+子供	B-strong
+一人	I-strong
+、	O
+子供は	O
+中学生	O
+です	O
+。	O
+
+
+
+予算	O
+は	O
+一人	O
+2	B-strong
+万	I-strong
+くらい	I-strong
+、	O
+お食事に	B-strong
+定	I-strong
+評	I-strong
+があり	I-strong
+眺めの良い	B-strong
+ところ	O
+を希望します	O
+。	O
+
+温泉の質	B-strong
+を求め	O
+ますので	O
+露天風呂	B-weak
+がある	O
+方が良いです	O
+。	O
+
+
+
+
+
+
+
+
+泉質が	B-weak
+素晴らしい	I-weak
+上に	O
+広い	B-weak
+のも	O
+気に入りました	O
+。	O
+
+食事も	B-neutral
+選べる	I-neutral
+よう	O
+になっている	O
+のが嬉しいです	O
+。	O
+
+予算	B-strong
+内に	I-strong
+収ま	O
+り	O
+そうです	O
+ので	O
+こちらで	O
+お願い	O
+できればと思います	O
+が	O
+。	O
